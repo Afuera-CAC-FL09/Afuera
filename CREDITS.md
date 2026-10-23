@@ -1,6 +1,4 @@
-# Credits
-
-List every outside library, data source, and reference here (the CAC rules require it).
+# Credits.
 
 ## Data
 - Open-Meteo (forecast and historical weather): https://open-meteo.com
@@ -24,7 +22,7 @@ List every outside library, data source, and reference here (the CAC rules requi
 - Tests and tools: Vitest, TypeScript, yaml, esbuild (MIT). Evidence tools use the Open-Meteo Historical Forecast API (CC BY 4.0).
 
 ## AI
-- Claude (Anthropic) answers questions on the Ask screen. Claude Code was used to write code; see `AI_USE.md`.
+- Claude (Anthropic) answers questions on the Ask screen. Claude Code was used to write some code; see `AI_USE.md`.
 
 ## Geocoding
 - Open-Meteo Geocoding API (city/ZIP search): https://open-meteo.com/en/docs/geocoding-api
