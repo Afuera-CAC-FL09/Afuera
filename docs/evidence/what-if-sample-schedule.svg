@@ -1,0 +1,308 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 616" width="820" height="616" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Actual practice time vs. the Afuera time</title>
+<desc id="d">For each practice that reached High or Extreme heat: the day's heat level by hour, the actual practice, and the lower-risk time Afuera would have suggested.</desc>
+<rect width="820" height="616" fill="#FFFFFF"/>
+<text x="16" y="28" font-size="17" font-weight="600" fill="#2B2F36">Actual practice time vs. the Afuera time</text>
+<text x="16" y="48" font-size="12" fill="#555D68">Each row is one practice that reached High or Extreme heat. Cells are that day's heat level, hour by hour.</text>
+<rect x="16" y="62" width="14" height="10" rx="2" fill="#CFE3F3" stroke="#9DBFDC"/>
+<text x="35" y="71" font-size="12" fill="#2B2F36">Lower</text>
+<rect x="86" y="62" width="14" height="10" rx="2" fill="#FDEBC8" stroke="#E8C88A"/>
+<text x="105" y="71" font-size="12" fill="#2B2F36">Elevated</text>
+<rect x="177" y="62" width="14" height="10" rx="2" fill="#F5A623"/>
+<text x="196" y="71" font-size="12" fill="#2B2F36">High</text>
+<rect x="240" y="62" width="14" height="10" rx="2" fill="#2B2F36"/>
+<text x="259" y="71" font-size="12" fill="#2B2F36">Extreme</text>
+<rect x="324" y="59" width="26" height="16" rx="4" fill="none" stroke="#2B2F36" stroke-width="2"/>
+<text x="356" y="71" font-size="12" fill="#2B2F36">Actual practice</text>
+<rect x="456" y="65" width="26" height="4" rx="2" fill="#2B2F36"/>
+<text x="488" y="71" font-size="12" fill="#2B2F36">Afuera time</text>
+<line x1="150" x2="150" y1="106" y2="596" stroke="#E6F1FA"/>
+<text x="150" y="102" font-size="11" fill="#555D68" text-anchor="middle">6a</text>
+<line x1="256" x2="256" y1="106" y2="596" stroke="#E6F1FA"/>
+<text x="256" y="102" font-size="11" fill="#555D68" text-anchor="middle">9a</text>
+<line x1="362" x2="362" y1="106" y2="596" stroke="#E6F1FA"/>
+<text x="362" y="102" font-size="11" fill="#555D68" text-anchor="middle">12p</text>
+<line x1="468" x2="468" y1="106" y2="596" stroke="#E6F1FA"/>
+<text x="468" y="102" font-size="11" fill="#555D68" text-anchor="middle">3p</text>
+<line x1="574" x2="574" y1="106" y2="596" stroke="#E6F1FA"/>
+<text x="574" y="102" font-size="11" fill="#555D68" text-anchor="middle">6p</text>
+<line x1="680" x2="680" y1="106" y2="596" stroke="#E6F1FA"/>
+<text x="680" y="102" font-size="11" fill="#555D68" text-anchor="middle">9p</text>
+<text x="708" y="102" font-size="11" fill="#555D68">High/Extreme time</text>
+<g><title>Mon, Jul 13: practice 8:00 AM–12:00 PM peaked at High (87.6 °F WBGT), 60 min in High/Extreme. Afuera time 6:00 AM–10:00 AM: Lower, 0 min in High/Extreme.</title>
+<rect x="0" y="112" width="820" height="40" fill="#FFFFFF" fill-opacity="0"/>
+<text x="16" y="130" font-size="12" fill="#2B2F36">Mon, Jul 13</text>
+<text x="16" y="144" font-size="11" fill="#555D68">Kissimmee HS field</text>
+<rect x="151" y="121" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="186.33333333333334" y="121" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="221.66666666666669" y="121" width="33.333333333333314" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="257" y="121" width="33.33333333333337" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="292.33333333333337" y="121" width="33.33333333333326" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="327.66666666666663" y="121" width="33.33333333333337" height="12" rx="2" fill="#F5A623"/>
+<rect x="363" y="121" width="33.33333333333337" height="12" rx="2" fill="#2B2F36"/>
+<rect x="398.33333333333337" y="121" width="33.333333333333314" height="12" rx="2" fill="#2B2F36"/>
+<rect x="433.6666666666667" y="121" width="33.333333333333314" height="12" rx="2" fill="#2B2F36"/>
+<rect x="469" y="121" width="33.333333333333314" height="12" rx="2" fill="#2B2F36"/>
+<rect x="504.3333333333333" y="121" width="33.333333333333314" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="539.6666666666666" y="121" width="33.33333333333337" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="575" y="121" width="33.33333333333337" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="610.3333333333334" y="121" width="33.33333333333337" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="645.6666666666667" y="121" width="33.33333333333326" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="220.66666666666669" y="117" width="141.33333333333331" height="20" rx="4" fill="none" stroke="#2B2F36" stroke-width="2"/>
+<rect x="150" y="141" width="141.33333333333337" height="4" rx="2" fill="#2B2F36"/>
+<text x="708" y="132" font-size="12" fill="#2B2F36">60 → 0 min</text>
+</g>
+<g><title>Tue, Jul 14: practice 1:00 PM–4:00 PM peaked at Extreme (95.3 °F WBGT), 180 min in High/Extreme. Afuera time 6:00 AM–9:00 AM: Lower, 0 min in High/Extreme.</title>
+<rect x="0" y="152" width="820" height="40" fill="#FFFFFF" fill-opacity="0"/>
+<text x="16" y="170" font-size="12" fill="#2B2F36">Tue, Jul 14</text>
+<text x="16" y="184" font-size="11" fill="#555D68">Kissimmee HS field</text>
+<rect x="151" y="161" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="186.33333333333334" y="161" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="221.66666666666669" y="161" width="33.333333333333314" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="257" y="161" width="33.33333333333337" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="292.33333333333337" y="161" width="33.33333333333326" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="327.66666666666663" y="161" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="363" y="161" width="33.33333333333337" height="12" rx="2" fill="#F5A623"/>
+<rect x="398.33333333333337" y="161" width="33.333333333333314" height="12" rx="2" fill="#2B2F36"/>
+<rect x="433.6666666666667" y="161" width="33.333333333333314" height="12" rx="2" fill="#2B2F36"/>
+<rect x="469" y="161" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="504.3333333333333" y="161" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="539.6666666666666" y="161" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="575" y="161" width="33.33333333333337" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="610.3333333333334" y="161" width="33.33333333333337" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="645.6666666666667" y="161" width="33.33333333333326" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="397.33333333333337" y="157" width="105.99999999999994" height="20" rx="4" fill="none" stroke="#2B2F36" stroke-width="2"/>
+<rect x="150" y="181" width="106" height="4" rx="2" fill="#2B2F36"/>
+<text x="708" y="172" font-size="12" fill="#2B2F36">180 → 0 min</text>
+</g>
+<g><title>Wed, Jul 15: practice 2:00 PM–4:00 PM peaked at Extreme (90.1 °F WBGT), 120 min in High/Extreme. Afuera time 6:00 AM–8:00 AM: Lower, 0 min in High/Extreme.</title>
+<rect x="0" y="192" width="820" height="40" fill="#FFFFFF" fill-opacity="0"/>
+<text x="16" y="210" font-size="12" fill="#2B2F36">Wed, Jul 15</text>
+<text x="16" y="224" font-size="11" fill="#555D68">Kissimmee HS field</text>
+<rect x="151" y="201" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="186.33333333333334" y="201" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="221.66666666666669" y="201" width="33.333333333333314" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="257" y="201" width="33.33333333333337" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="292.33333333333337" y="201" width="33.33333333333326" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="327.66666666666663" y="201" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="363" y="201" width="33.33333333333337" height="12" rx="2" fill="#F5A623"/>
+<rect x="398.33333333333337" y="201" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="433.6666666666667" y="201" width="33.333333333333314" height="12" rx="2" fill="#2B2F36"/>
+<rect x="469" y="201" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="504.3333333333333" y="201" width="33.333333333333314" height="12" rx="2" fill="#2B2F36"/>
+<rect x="539.6666666666666" y="201" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="575" y="201" width="33.33333333333337" height="12" rx="2" fill="#F5A623"/>
+<rect x="610.3333333333334" y="201" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="645.6666666666667" y="201" width="33.33333333333326" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="432.6666666666667" y="197" width="70.66666666666663" height="20" rx="4" fill="none" stroke="#2B2F36" stroke-width="2"/>
+<rect x="150" y="221" width="70.66666666666669" height="4" rx="2" fill="#2B2F36"/>
+<text x="708" y="212" font-size="12" fill="#2B2F36">120 → 0 min</text>
+</g>
+<g><title>Tue, Jul 21: practice 1:30 PM–3:00 PM peaked at High (88.9 °F WBGT), 90 min in High/Extreme. Afuera time 6:00 AM–7:30 AM: Lower, 0 min in High/Extreme.</title>
+<rect x="0" y="232" width="820" height="40" fill="#FFFFFF" fill-opacity="0"/>
+<text x="16" y="250" font-size="12" fill="#2B2F36">Tue, Jul 21</text>
+<text x="16" y="264" font-size="11" fill="#555D68">St. Cloud rec park</text>
+<rect x="151" y="241" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="186.33333333333334" y="241" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="221.66666666666669" y="241" width="33.333333333333314" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="257" y="241" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="292.33333333333337" y="241" width="33.33333333333326" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="327.66666666666663" y="241" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="363" y="241" width="33.33333333333337" height="12" rx="2" fill="#F5A623"/>
+<rect x="398.33333333333337" y="241" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="433.6666666666667" y="241" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="469" y="241" width="33.333333333333314" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="504.3333333333333" y="241" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="539.6666666666666" y="241" width="33.33333333333337" height="12" rx="2" fill="#F5A623"/>
+<rect x="575" y="241" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="610.3333333333334" y="241" width="33.33333333333337" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="645.6666666666667" y="241" width="33.33333333333326" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="415" y="237" width="53" height="20" rx="4" fill="none" stroke="#2B2F36" stroke-width="2"/>
+<rect x="150" y="261" width="53" height="4" rx="2" fill="#2B2F36"/>
+<text x="708" y="252" font-size="12" fill="#2B2F36">90 → 0 min</text>
+</g>
+<g><title>Tue, Jul 28: practice 3:30 PM–5:30 PM peaked at High (88.5 °F WBGT), 30 min in High/Extreme. Afuera time 6:00 AM–8:00 AM: Lower, 0 min in High/Extreme.</title>
+<rect x="0" y="272" width="820" height="40" fill="#FFFFFF" fill-opacity="0"/>
+<text x="16" y="290" font-size="12" fill="#2B2F36">Tue, Jul 28</text>
+<text x="16" y="304" font-size="11" fill="#555D68">Poinciana park</text>
+<rect x="151" y="281" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="186.33333333333334" y="281" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="221.66666666666669" y="281" width="33.333333333333314" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="257" y="281" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="292.33333333333337" y="281" width="33.33333333333326" height="12" rx="2" fill="#F5A623"/>
+<rect x="327.66666666666663" y="281" width="33.33333333333337" height="12" rx="2" fill="#F5A623"/>
+<rect x="363" y="281" width="33.33333333333337" height="12" rx="2" fill="#2B2F36"/>
+<rect x="398.33333333333337" y="281" width="33.333333333333314" height="12" rx="2" fill="#2B2F36"/>
+<rect x="433.6666666666667" y="281" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="469" y="281" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="504.3333333333333" y="281" width="33.333333333333314" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="539.6666666666666" y="281" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="575" y="281" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="610.3333333333334" y="281" width="33.33333333333337" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="645.6666666666667" y="281" width="33.33333333333326" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="485.66666666666663" y="277" width="70.66666666666674" height="20" rx="4" fill="none" stroke="#2B2F36" stroke-width="2"/>
+<rect x="150" y="301" width="70.66666666666669" height="4" rx="2" fill="#2B2F36"/>
+<text x="708" y="292" font-size="12" fill="#2B2F36">30 → 0 min</text>
+</g>
+<g><title>Tue, Aug 11: practice 3:30 PM–5:30 PM peaked at Extreme (97.3 °F WBGT), 120 min in High/Extreme. Afuera time 6:00 AM–8:00 AM: Lower, 0 min in High/Extreme.</title>
+<rect x="0" y="312" width="820" height="40" fill="#FFFFFF" fill-opacity="0"/>
+<text x="16" y="330" font-size="12" fill="#2B2F36">Tue, Aug 11</text>
+<text x="16" y="344" font-size="11" fill="#555D68">Poinciana park</text>
+<rect x="151" y="321" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="186.33333333333334" y="321" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="221.66666666666669" y="321" width="33.333333333333314" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="257" y="321" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="292.33333333333337" y="321" width="33.33333333333326" height="12" rx="2" fill="#2B2F36"/>
+<rect x="327.66666666666663" y="321" width="33.33333333333337" height="12" rx="2" fill="#2B2F36"/>
+<rect x="363" y="321" width="33.33333333333337" height="12" rx="2" fill="#F5A623"/>
+<rect x="398.33333333333337" y="321" width="33.333333333333314" height="12" rx="2" fill="#2B2F36"/>
+<rect x="433.6666666666667" y="321" width="33.333333333333314" height="12" rx="2" fill="#2B2F36"/>
+<rect x="469" y="321" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="504.3333333333333" y="321" width="33.333333333333314" height="12" rx="2" fill="#2B2F36"/>
+<rect x="539.6666666666666" y="321" width="33.33333333333337" height="12" rx="2" fill="#F5A623"/>
+<rect x="575" y="321" width="33.33333333333337" height="12" rx="2" fill="#F5A623"/>
+<rect x="610.3333333333334" y="321" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="645.6666666666667" y="321" width="33.33333333333326" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="485.66666666666663" y="317" width="70.66666666666674" height="20" rx="4" fill="none" stroke="#2B2F36" stroke-width="2"/>
+<rect x="150" y="341" width="70.66666666666669" height="4" rx="2" fill="#2B2F36"/>
+<text x="708" y="332" font-size="12" fill="#2B2F36">120 → 0 min</text>
+</g>
+<g><title>Thu, Aug 13: practice 3:30 PM–5:30 PM peaked at Extreme (91.2 °F WBGT), 90 min in High/Extreme. Afuera time 6:00 AM–8:00 AM: Lower, 0 min in High/Extreme.</title>
+<rect x="0" y="352" width="820" height="40" fill="#FFFFFF" fill-opacity="0"/>
+<text x="16" y="370" font-size="12" fill="#2B2F36">Thu, Aug 13</text>
+<text x="16" y="384" font-size="11" fill="#555D68">Poinciana park</text>
+<rect x="151" y="361" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="186.33333333333334" y="361" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="221.66666666666669" y="361" width="33.333333333333314" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="257" y="361" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="292.33333333333337" y="361" width="33.33333333333326" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="327.66666666666663" y="361" width="33.33333333333337" height="12" rx="2" fill="#F5A623"/>
+<rect x="363" y="361" width="33.33333333333337" height="12" rx="2" fill="#F5A623"/>
+<rect x="398.33333333333337" y="361" width="33.333333333333314" height="12" rx="2" fill="#2B2F36"/>
+<rect x="433.6666666666667" y="361" width="33.333333333333314" height="12" rx="2" fill="#2B2F36"/>
+<rect x="469" y="361" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="504.3333333333333" y="361" width="33.333333333333314" height="12" rx="2" fill="#2B2F36"/>
+<rect x="539.6666666666666" y="361" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="575" y="361" width="33.33333333333337" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="610.3333333333334" y="361" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="645.6666666666667" y="361" width="33.33333333333326" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="485.66666666666663" y="357" width="70.66666666666674" height="20" rx="4" fill="none" stroke="#2B2F36" stroke-width="2"/>
+<rect x="150" y="381" width="70.66666666666669" height="4" rx="2" fill="#2B2F36"/>
+<text x="708" y="372" font-size="12" fill="#2B2F36">90 → 0 min</text>
+</g>
+<g><title>Tue, Aug 18: practice 4:00 PM–6:00 PM peaked at High (89.9 °F WBGT), 120 min in High/Extreme. Afuera time 6:00 AM–8:00 AM: Lower, 0 min in High/Extreme.</title>
+<rect x="0" y="392" width="820" height="40" fill="#FFFFFF" fill-opacity="0"/>
+<text x="16" y="410" font-size="12" fill="#2B2F36">Tue, Aug 18</text>
+<text x="16" y="424" font-size="11" fill="#555D68">Kissimmee HS field</text>
+<rect x="151" y="401" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="186.33333333333334" y="401" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="221.66666666666669" y="401" width="33.333333333333314" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="257" y="401" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="292.33333333333337" y="401" width="33.33333333333326" height="12" rx="2" fill="#F5A623"/>
+<rect x="327.66666666666663" y="401" width="33.33333333333337" height="12" rx="2" fill="#F5A623"/>
+<rect x="363" y="401" width="33.33333333333337" height="12" rx="2" fill="#F5A623"/>
+<rect x="398.33333333333337" y="401" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="433.6666666666667" y="401" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="469" y="401" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="504.3333333333333" y="401" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="539.6666666666666" y="401" width="33.33333333333337" height="12" rx="2" fill="#F5A623"/>
+<rect x="575" y="401" width="33.33333333333337" height="12" rx="2" fill="#F5A623"/>
+<rect x="610.3333333333334" y="401" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="645.6666666666667" y="401" width="33.33333333333326" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="503.3333333333333" y="397" width="70.66666666666669" height="20" rx="4" fill="none" stroke="#2B2F36" stroke-width="2"/>
+<rect x="150" y="421" width="70.66666666666669" height="4" rx="2" fill="#2B2F36"/>
+<text x="708" y="412" font-size="12" fill="#2B2F36">120 → 0 min</text>
+</g>
+<g><title>Tue, Sep 1: practice 4:00 PM–6:00 PM peaked at High (87.2 °F WBGT), 60 min in High/Extreme. Afuera time 6:00 AM–8:00 AM: Lower, 0 min in High/Extreme.</title>
+<rect x="0" y="432" width="820" height="40" fill="#FFFFFF" fill-opacity="0"/>
+<text x="16" y="450" font-size="12" fill="#2B2F36">Tue, Sep 1</text>
+<text x="16" y="464" font-size="11" fill="#555D68">Kissimmee HS field</text>
+<rect x="151" y="441" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="186.33333333333334" y="441" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="221.66666666666669" y="441" width="33.333333333333314" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="257" y="441" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="292.33333333333337" y="441" width="33.33333333333326" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="327.66666666666663" y="441" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="363" y="441" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="398.33333333333337" y="441" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="433.6666666666667" y="441" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="469" y="441" width="33.333333333333314" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="504.3333333333333" y="441" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="539.6666666666666" y="441" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="575" y="441" width="33.33333333333337" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="610.3333333333334" y="441" width="33.33333333333337" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="645.6666666666667" y="441" width="33.33333333333326" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="503.3333333333333" y="437" width="70.66666666666669" height="20" rx="4" fill="none" stroke="#2B2F36" stroke-width="2"/>
+<rect x="150" y="461" width="70.66666666666669" height="4" rx="2" fill="#2B2F36"/>
+<text x="708" y="452" font-size="12" fill="#2B2F36">60 → 0 min</text>
+</g>
+<g><title>Tue, Sep 8: practice 3:30 PM–5:30 PM peaked at High (89 °F WBGT), 90 min in High/Extreme. Afuera time 6:00 AM–8:00 AM: Lower, 0 min in High/Extreme.</title>
+<rect x="0" y="472" width="820" height="40" fill="#FFFFFF" fill-opacity="0"/>
+<text x="16" y="490" font-size="12" fill="#2B2F36">Tue, Sep 8</text>
+<text x="16" y="504" font-size="11" fill="#555D68">Poinciana park</text>
+<rect x="151" y="481" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="186.33333333333334" y="481" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="221.66666666666669" y="481" width="33.333333333333314" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="257" y="481" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="292.33333333333337" y="481" width="33.33333333333326" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="327.66666666666663" y="481" width="33.33333333333337" height="12" rx="2" fill="#F5A623"/>
+<rect x="363" y="481" width="33.33333333333337" height="12" rx="2" fill="#F5A623"/>
+<rect x="398.33333333333337" y="481" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="433.6666666666667" y="481" width="33.333333333333314" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="469" y="481" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="504.3333333333333" y="481" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="539.6666666666666" y="481" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="575" y="481" width="33.33333333333337" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="610.3333333333334" y="481" width="33.33333333333337" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="645.6666666666667" y="481" width="33.33333333333326" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="485.66666666666663" y="477" width="70.66666666666674" height="20" rx="4" fill="none" stroke="#2B2F36" stroke-width="2"/>
+<rect x="150" y="501" width="70.66666666666669" height="4" rx="2" fill="#2B2F36"/>
+<text x="708" y="492" font-size="12" fill="#2B2F36">90 → 0 min</text>
+</g>
+<g><title>Tue, Sep 15: practice 10:00 AM–12:00 PM peaked at Extreme (90.5 °F WBGT), 120 min in High/Extreme. Afuera time 6:00 AM–8:00 AM: Lower, 0 min in High/Extreme.</title>
+<rect x="0" y="512" width="820" height="40" fill="#FFFFFF" fill-opacity="0"/>
+<text x="16" y="530" font-size="12" fill="#2B2F36">Tue, Sep 15</text>
+<text x="16" y="544" font-size="11" fill="#555D68">St. Cloud rec park</text>
+<rect x="151" y="521" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="186.33333333333334" y="521" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="221.66666666666669" y="521" width="33.333333333333314" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="257" y="521" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="292.33333333333337" y="521" width="33.33333333333326" height="12" rx="2" fill="#F5A623"/>
+<rect x="327.66666666666663" y="521" width="33.33333333333337" height="12" rx="2" fill="#2B2F36"/>
+<rect x="363" y="521" width="33.33333333333337" height="12" rx="2" fill="#F5A623"/>
+<rect x="398.33333333333337" y="521" width="33.333333333333314" height="12" rx="2" fill="#2B2F36"/>
+<rect x="433.6666666666667" y="521" width="33.333333333333314" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="469" y="521" width="33.333333333333314" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="504.3333333333333" y="521" width="33.333333333333314" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="539.6666666666666" y="521" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="575" y="521" width="33.33333333333337" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="610.3333333333334" y="521" width="33.33333333333337" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="645.6666666666667" y="521" width="33.33333333333326" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="291.33333333333337" y="517" width="70.66666666666663" height="20" rx="4" fill="none" stroke="#2B2F36" stroke-width="2"/>
+<rect x="150" y="541" width="70.66666666666669" height="4" rx="2" fill="#2B2F36"/>
+<text x="708" y="532" font-size="12" fill="#2B2F36">120 → 0 min</text>
+</g>
+<g><title>Tue, Sep 22: practice 4:00 PM–6:00 PM peaked at High (88 °F WBGT), 60 min in High/Extreme. Afuera time 6:00 AM–8:00 AM: Lower, 0 min in High/Extreme.</title>
+<rect x="0" y="552" width="820" height="40" fill="#FFFFFF" fill-opacity="0"/>
+<text x="16" y="570" font-size="12" fill="#2B2F36">Tue, Sep 22</text>
+<text x="16" y="584" font-size="11" fill="#555D68">Kissimmee HS field</text>
+<rect x="151" y="561" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="186.33333333333334" y="561" width="33.33333333333334" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="221.66666666666669" y="561" width="33.333333333333314" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="257" y="561" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="292.33333333333337" y="561" width="33.33333333333326" height="12" rx="2" fill="#2B2F36"/>
+<rect x="327.66666666666663" y="561" width="33.33333333333337" height="12" rx="2" fill="#2B2F36"/>
+<rect x="363" y="561" width="33.33333333333337" height="12" rx="2" fill="#2B2F36"/>
+<rect x="398.33333333333337" y="561" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="433.6666666666667" y="561" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="469" y="561" width="33.333333333333314" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="504.3333333333333" y="561" width="33.333333333333314" height="12" rx="2" fill="#F5A623"/>
+<rect x="539.6666666666666" y="561" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="575" y="561" width="33.33333333333337" height="12" rx="2" fill="#FDEBC8" stroke="#E8C88A" stroke-width="1"/>
+<rect x="610.3333333333334" y="561" width="33.33333333333337" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="645.6666666666667" y="561" width="33.33333333333326" height="12" rx="2" fill="#CFE3F3" stroke="#9DBFDC" stroke-width="1"/>
+<rect x="503.3333333333333" y="557" width="70.66666666666669" height="20" rx="4" fill="none" stroke="#2B2F36" stroke-width="2"/>
+<rect x="150" y="581" width="70.66666666666669" height="4" rx="2" fill="#2B2F36"/>
+<text x="708" y="572" font-size="12" fill="#2B2F36">60 → 0 min</text>
+</g>
+</svg>

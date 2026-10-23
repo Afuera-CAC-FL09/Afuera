@@ -1,0 +1,25 @@
+id: event
+name:
+  en: Big event
+  es: Evento grande
+defaultMinutes: 240
+checkins:
+  - id: performer-rotation
+    required: true
+    everyMinutes: { high: 30, extreme: 20 }
+    title:
+      en: Rotate kids into the shade
+      es: Rota a los niños a la sombra
+    detail:
+      en: Swap groups so nobody stays in the sun longer than this.
+      es: Cambia los grupos para que nadie se quede al sol más de este tiempo.
+
+  - id: announce-water
+    required: false
+    everyMinutes: { elevated: 60, high: 30, extreme: 30 }
+    title:
+      en: Remind the crowd to drink water
+      es: Recuerda al público que tome agua
+    detail:
+      en: Announce where the water and shade are.
+      es: Anuncia dónde hay agua y sombra.

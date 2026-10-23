@@ -1,0 +1,34 @@
+name = "afuera-proxy"
+main = "src/index.ts"
+compatibility_date = "2026-09-01"
+compatibility_flags = ["nodejs_compat"]
+# The app calls https://afuera-proxy.<subdomain>.workers.dev. No per-version preview URLs.
+workers_dev = true
+preview_urls = false
+
+# The system prompt is a Markdown file; import it as plain text.
+rules = [{ type = "Text", globs = ["**/*.md"], fallthrough = true }]
+
+[vars]
+# NWS_CONTACT (the team's email or GitHub URL, for the National Weather Service
+# User-Agent header) is not in this file, so no address gets committed. Set it
+# once per deploy target:
+#   npx wrangler secret put NWS_CONTACT
+# For local dev, put it in proxy/.dev.vars next to the API key.
+PER_IP_PER_MINUTE = "6"
+PER_IP_PER_DAY = "60"
+# Hard stop for Claude spending per UTC day. Also set a monthly limit in the
+# Anthropic Console (Settings → Limits) as a second line of defense.
+DAILY_BUDGET_USD = "3"
+
+# ANTHROPIC_API_KEY is a secret, never in this file:
+#   npx wrangler secret put ANTHROPIC_API_KEY
+# For local dev, put it in proxy/.dev.vars (git-ignored).
+
+[[durable_objects.bindings]]
+name = "LIMITER"
+class_name = "Limiter"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["Limiter"]

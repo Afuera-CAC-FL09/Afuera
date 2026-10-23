@@ -1,0 +1,25 @@
+id: team
+name:
+  en: Team practice
+  es: Práctica de equipo
+defaultMinutes: 120
+checkins:
+  - id: gear-limits
+    required: true
+    everyMinutes: { high: 0, extreme: 0 }
+    title:
+      en: Lighten the gear
+      es: Menos equipo
+    detail:
+      en: "High: helmets, shoulder pads and shorts only. Extreme: no pads or protective gear, and no conditioning drills."
+      es: "Alto: solo casco, hombreras y shorts. Extremo: sin hombreras ni equipo de protección, y sin ejercicios de acondicionamiento."
+
+  - id: helmets-off
+    required: false
+    everyMinutes: { elevated: 20, high: 15, extreme: 12 }
+    title:
+      en: Helmets off during the break
+      es: Cascos fuera en el descanso
+    detail:
+      en: Helmets trap heat. Take them off every break.
+      es: Los cascos atrapan el calor. Quítenselos en cada descanso.

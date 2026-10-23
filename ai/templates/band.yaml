@@ -1,0 +1,15 @@
+id: band
+name:
+  en: Band practice
+  es: Práctica de banda
+defaultMinutes: 120
+checkins:
+  - id: instruments-down
+    required: false
+    everyMinutes: { elevated: 20, high: 15, extreme: 12 }
+    title:
+      en: Instruments down, hats off
+      es: Instrumentos abajo, gorras fuera
+    detail:
+      en: Put instruments in the shade so metal doesn't get too hot to hold. Take off hats and jackets during the break.
+      es: Pongan los instrumentos en la sombra para que el metal no queme. Quítense gorras y chaquetas en el descanso.

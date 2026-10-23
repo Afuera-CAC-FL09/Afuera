@@ -1,0 +1,21 @@
+node_modules/
+.expo/
+dist/
+build/
+*.log
+.env
+.env.*
+!.env.example
+.dev.vars
+.wrangler/
+.DS_Store
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Local editor/agent tooling
+.agents/
+.claude/
+skills-lock.json

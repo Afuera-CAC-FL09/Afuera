@@ -1,0 +1,441 @@
+{
+  "band": {
+    "id": "band",
+    "name": {
+      "en": "Band practice",
+      "es": "Práctica de banda"
+    },
+    "defaultMinutes": 120,
+    "checkins": [
+      {
+        "id": "water-break",
+        "required": true,
+        "everyMinutes": {
+          "lower": 30,
+          "elevated": 20,
+          "high": 15,
+          "extreme": 12
+        },
+        "title": {
+          "en": "Water and shade break (4 min)",
+          "es": "Descanso con agua y sombra (4 min)"
+        },
+        "detail": {
+          "en": "Everyone stops, drinks water, and rests in the shade.",
+          "es": "Todos paran, toman agua y descansan en la sombra."
+        }
+      },
+      {
+        "id": "heat-reading",
+        "required": true,
+        "everyMinutes": {
+          "elevated": 30,
+          "high": 30,
+          "extreme": 30
+        },
+        "title": {
+          "en": "Check the heat again",
+          "es": "Revisa el calor otra vez"
+        },
+        "detail": {
+          "en": "Read the WBGT meter or refresh the app. If the level went up, follow the new level.",
+          "es": "Lee el medidor WBGT o actualiza la app. Si el nivel subió, sigue el nuevo nivel."
+        }
+      },
+      {
+        "id": "cooling-zone",
+        "required": true,
+        "everyMinutes": {
+          "elevated": 0,
+          "high": 0,
+          "extreme": 0
+        },
+        "title": {
+          "en": "Cooling zone ready",
+          "es": "Zona de enfriamiento lista"
+        },
+        "detail": {
+          "en": "A tub of ice water (or a tarp and ice) is set up, and an adult trained to use it is here.",
+          "es": "Hay una tina con agua y hielo (o una lona con hielo) lista, y un adulto entrenado para usarla está presente."
+        }
+      },
+      {
+        "id": "symptom-check",
+        "required": false,
+        "everyMinutes": {
+          "lower": 60,
+          "elevated": 30,
+          "high": 20,
+          "extreme": 15
+        },
+        "title": {
+          "en": "Look for signs of heat illness",
+          "es": "Busca señales de enfermedad por calor"
+        },
+        "detail": {
+          "en": "Watch for dizziness, headache, cramps, confusion, throwing up, or very red or pale skin. Anyone with these stops and cools down now.",
+          "es": "Fíjate si hay mareo, dolor de cabeza, calambres, confusión, vómito, o piel muy roja o pálida. Quien tenga esto para y se enfría ya."
+        }
+      },
+      {
+        "id": "instruments-down",
+        "required": false,
+        "everyMinutes": {
+          "elevated": 20,
+          "high": 15,
+          "extreme": 12
+        },
+        "title": {
+          "en": "Instruments down, hats off",
+          "es": "Instrumentos abajo, gorras fuera"
+        },
+        "detail": {
+          "en": "Put instruments in the shade so metal doesn't get too hot to hold. Take off hats and jackets during the break.",
+          "es": "Pongan los instrumentos en la sombra para que el metal no queme. Quítense gorras y chaquetas en el descanso."
+        }
+      }
+    ]
+  },
+  "camp": {
+    "id": "camp",
+    "name": {
+      "en": "Day camp",
+      "es": "Campamento de día"
+    },
+    "defaultMinutes": 180,
+    "checkins": [
+      {
+        "id": "water-break",
+        "required": true,
+        "everyMinutes": {
+          "lower": 30,
+          "elevated": 20,
+          "high": 15,
+          "extreme": 12
+        },
+        "title": {
+          "en": "Water and shade break (4 min)",
+          "es": "Descanso con agua y sombra (4 min)"
+        },
+        "detail": {
+          "en": "Everyone stops, drinks water, and rests in the shade.",
+          "es": "Todos paran, toman agua y descansan en la sombra."
+        }
+      },
+      {
+        "id": "heat-reading",
+        "required": true,
+        "everyMinutes": {
+          "elevated": 30,
+          "high": 30,
+          "extreme": 30
+        },
+        "title": {
+          "en": "Check the heat again",
+          "es": "Revisa el calor otra vez"
+        },
+        "detail": {
+          "en": "Read the WBGT meter or refresh the app. If the level went up, follow the new level.",
+          "es": "Lee el medidor WBGT o actualiza la app. Si el nivel subió, sigue el nuevo nivel."
+        }
+      },
+      {
+        "id": "cooling-zone",
+        "required": true,
+        "everyMinutes": {
+          "elevated": 0,
+          "high": 0,
+          "extreme": 0
+        },
+        "title": {
+          "en": "Cooling zone ready",
+          "es": "Zona de enfriamiento lista"
+        },
+        "detail": {
+          "en": "A tub of ice water (or a tarp and ice) is set up, and an adult trained to use it is here.",
+          "es": "Hay una tina con agua y hielo (o una lona con hielo) lista, y un adulto entrenado para usarla está presente."
+        }
+      },
+      {
+        "id": "symptom-check",
+        "required": false,
+        "everyMinutes": {
+          "lower": 60,
+          "elevated": 30,
+          "high": 20,
+          "extreme": 15
+        },
+        "title": {
+          "en": "Look for signs of heat illness",
+          "es": "Busca señales de enfermedad por calor"
+        },
+        "detail": {
+          "en": "Watch for dizziness, headache, cramps, confusion, throwing up, or very red or pale skin. Anyone with these stops and cools down now.",
+          "es": "Fíjate si hay mareo, dolor de cabeza, calambres, confusión, vómito, o piel muy roja o pálida. Quien tenga esto para y se enfría ya."
+        }
+      },
+      {
+        "id": "head-count",
+        "required": true,
+        "everyMinutes": {
+          "lower": 60,
+          "elevated": 60,
+          "high": 30,
+          "extreme": 30
+        },
+        "title": {
+          "en": "Head count",
+          "es": "Cuenta a los niños"
+        },
+        "detail": {
+          "en": "Count every child. Anyone missing might be sick somewhere out of sight.",
+          "es": "Cuenta a cada niño. Si falta alguno, podría estar enfermo donde no lo ves."
+        }
+      },
+      {
+        "id": "sunscreen",
+        "required": false,
+        "everyMinutes": {
+          "lower": 120,
+          "elevated": 120,
+          "high": 120,
+          "extreme": 120
+        },
+        "title": {
+          "en": "Sunscreen again",
+          "es": "Bloqueador solar otra vez"
+        },
+        "detail": {
+          "en": "Put sunscreen back on, especially after water play.",
+          "es": "Vuelvan a ponerse bloqueador, sobre todo después de jugar con agua."
+        }
+      }
+    ]
+  },
+  "event": {
+    "id": "event",
+    "name": {
+      "en": "Big event",
+      "es": "Evento grande"
+    },
+    "defaultMinutes": 240,
+    "checkins": [
+      {
+        "id": "water-break",
+        "required": true,
+        "everyMinutes": {
+          "lower": 30,
+          "elevated": 20,
+          "high": 15,
+          "extreme": 12
+        },
+        "title": {
+          "en": "Water and shade break (4 min)",
+          "es": "Descanso con agua y sombra (4 min)"
+        },
+        "detail": {
+          "en": "Everyone stops, drinks water, and rests in the shade.",
+          "es": "Todos paran, toman agua y descansan en la sombra."
+        }
+      },
+      {
+        "id": "heat-reading",
+        "required": true,
+        "everyMinutes": {
+          "elevated": 30,
+          "high": 30,
+          "extreme": 30
+        },
+        "title": {
+          "en": "Check the heat again",
+          "es": "Revisa el calor otra vez"
+        },
+        "detail": {
+          "en": "Read the WBGT meter or refresh the app. If the level went up, follow the new level.",
+          "es": "Lee el medidor WBGT o actualiza la app. Si el nivel subió, sigue el nuevo nivel."
+        }
+      },
+      {
+        "id": "cooling-zone",
+        "required": true,
+        "everyMinutes": {
+          "elevated": 0,
+          "high": 0,
+          "extreme": 0
+        },
+        "title": {
+          "en": "Cooling zone ready",
+          "es": "Zona de enfriamiento lista"
+        },
+        "detail": {
+          "en": "A tub of ice water (or a tarp and ice) is set up, and an adult trained to use it is here.",
+          "es": "Hay una tina con agua y hielo (o una lona con hielo) lista, y un adulto entrenado para usarla está presente."
+        }
+      },
+      {
+        "id": "symptom-check",
+        "required": false,
+        "everyMinutes": {
+          "lower": 60,
+          "elevated": 30,
+          "high": 20,
+          "extreme": 15
+        },
+        "title": {
+          "en": "Look for signs of heat illness",
+          "es": "Busca señales de enfermedad por calor"
+        },
+        "detail": {
+          "en": "Watch for dizziness, headache, cramps, confusion, throwing up, or very red or pale skin. Anyone with these stops and cools down now.",
+          "es": "Fíjate si hay mareo, dolor de cabeza, calambres, confusión, vómito, o piel muy roja o pálida. Quien tenga esto para y se enfría ya."
+        }
+      },
+      {
+        "id": "performer-rotation",
+        "required": true,
+        "everyMinutes": {
+          "high": 30,
+          "extreme": 20
+        },
+        "title": {
+          "en": "Rotate kids into the shade",
+          "es": "Rota a los niños a la sombra"
+        },
+        "detail": {
+          "en": "Swap groups so nobody stays in the sun longer than this.",
+          "es": "Cambia los grupos para que nadie se quede al sol más de este tiempo."
+        }
+      },
+      {
+        "id": "announce-water",
+        "required": false,
+        "everyMinutes": {
+          "elevated": 60,
+          "high": 30,
+          "extreme": 30
+        },
+        "title": {
+          "en": "Remind the crowd to drink water",
+          "es": "Recuerda al público que tome agua"
+        },
+        "detail": {
+          "en": "Announce where the water and shade are.",
+          "es": "Anuncia dónde hay agua y sombra."
+        }
+      }
+    ]
+  },
+  "team": {
+    "id": "team",
+    "name": {
+      "en": "Team practice",
+      "es": "Práctica de equipo"
+    },
+    "defaultMinutes": 120,
+    "checkins": [
+      {
+        "id": "water-break",
+        "required": true,
+        "everyMinutes": {
+          "lower": 30,
+          "elevated": 20,
+          "high": 15,
+          "extreme": 12
+        },
+        "title": {
+          "en": "Water and shade break (4 min)",
+          "es": "Descanso con agua y sombra (4 min)"
+        },
+        "detail": {
+          "en": "Everyone stops, drinks water, and rests in the shade.",
+          "es": "Todos paran, toman agua y descansan en la sombra."
+        }
+      },
+      {
+        "id": "heat-reading",
+        "required": true,
+        "everyMinutes": {
+          "elevated": 30,
+          "high": 30,
+          "extreme": 30
+        },
+        "title": {
+          "en": "Check the heat again",
+          "es": "Revisa el calor otra vez"
+        },
+        "detail": {
+          "en": "Read the WBGT meter or refresh the app. If the level went up, follow the new level.",
+          "es": "Lee el medidor WBGT o actualiza la app. Si el nivel subió, sigue el nuevo nivel."
+        }
+      },
+      {
+        "id": "cooling-zone",
+        "required": true,
+        "everyMinutes": {
+          "elevated": 0,
+          "high": 0,
+          "extreme": 0
+        },
+        "title": {
+          "en": "Cooling zone ready",
+          "es": "Zona de enfriamiento lista"
+        },
+        "detail": {
+          "en": "A tub of ice water (or a tarp and ice) is set up, and an adult trained to use it is here.",
+          "es": "Hay una tina con agua y hielo (o una lona con hielo) lista, y un adulto entrenado para usarla está presente."
+        }
+      },
+      {
+        "id": "symptom-check",
+        "required": false,
+        "everyMinutes": {
+          "lower": 60,
+          "elevated": 30,
+          "high": 20,
+          "extreme": 15
+        },
+        "title": {
+          "en": "Look for signs of heat illness",
+          "es": "Busca señales de enfermedad por calor"
+        },
+        "detail": {
+          "en": "Watch for dizziness, headache, cramps, confusion, throwing up, or very red or pale skin. Anyone with these stops and cools down now.",
+          "es": "Fíjate si hay mareo, dolor de cabeza, calambres, confusión, vómito, o piel muy roja o pálida. Quien tenga esto para y se enfría ya."
+        }
+      },
+      {
+        "id": "gear-limits",
+        "required": true,
+        "everyMinutes": {
+          "high": 0,
+          "extreme": 0
+        },
+        "title": {
+          "en": "Lighten the gear",
+          "es": "Menos equipo"
+        },
+        "detail": {
+          "en": "High: helmets, shoulder pads and shorts only. Extreme: no pads or protective gear, and no conditioning drills.",
+          "es": "Alto: solo casco, hombreras y shorts. Extremo: sin hombreras ni equipo de protección, y sin ejercicios de acondicionamiento."
+        }
+      },
+      {
+        "id": "helmets-off",
+        "required": false,
+        "everyMinutes": {
+          "elevated": 20,
+          "high": 15,
+          "extreme": 12
+        },
+        "title": {
+          "en": "Helmets off during the break",
+          "es": "Cascos fuera en el descanso"
+        },
+        "detail": {
+          "en": "Helmets trap heat. Take them off every break.",
+          "es": "Los cascos atrapan el calor. Quítenselos en cada descanso."
+        }
+      }
+    ]
+  }
+}

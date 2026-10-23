@@ -1,0 +1,19 @@
+{
+  "name": "afuera",
+  "private": true,
+  "workspaces": [
+    "engine",
+    "proxy",
+    "app"
+  ],
+  "scripts": {
+    "test": "npm test -w engine && npm test -w proxy",
+    "templates": "node tools/build-templates.mjs",
+    "what-if": "node tools/what-if.mjs",
+    "meter-compare": "node tools/meter-compare.mjs"
+  },
+  "devDependencies": {
+    "yaml": "^2.8.1",
+    "esbuild": "^0.28.2"
+  }
+}

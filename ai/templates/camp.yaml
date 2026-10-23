@@ -1,0 +1,25 @@
+id: camp
+name:
+  en: Day camp
+  es: Campamento de día
+defaultMinutes: 180
+checkins:
+  - id: head-count
+    required: true
+    everyMinutes: { lower: 60, elevated: 60, high: 30, extreme: 30 }
+    title:
+      en: Head count
+      es: Cuenta a los niños
+    detail:
+      en: Count every child. Anyone missing might be sick somewhere out of sight.
+      es: Cuenta a cada niño. Si falta alguno, podría estar enfermo donde no lo ves.
+
+  - id: sunscreen
+    required: false
+    everyMinutes: { lower: 120, elevated: 120, high: 120, extreme: 120 }
+    title:
+      en: Sunscreen again
+      es: Bloqueador solar otra vez
+    detail:
+      en: Put sunscreen back on, especially after water play.
+      es: Vuelvan a ponerse bloqueador, sobre todo después de jugar con agua.

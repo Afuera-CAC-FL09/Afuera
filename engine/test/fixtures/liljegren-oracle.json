@@ -1,0 +1,10870 @@
+[
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 15,
+   "hour": 10,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 0,
+   "pressure": 1015,
+   "tempC": 25,
+   "rh": 92,
+   "windSpeed": 1,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 24.025894,
+   "globe": 24.097223,
+   "naturalWetBulb": 23.866358
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 15,
+   "hour": 11,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 15,
+   "pressure": 1015,
+   "tempC": 25.2,
+   "rh": 90,
+   "windSpeed": 1.2,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 24.276508,
+   "globe": 24.919703,
+   "naturalWetBulb": 23.96081
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 15,
+   "hour": 12,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 120,
+   "pressure": 1015,
+   "tempC": 26.1,
+   "rh": 86,
+   "windSpeed": 1.5,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 26.360971,
+   "globe": 31.135462,
+   "naturalWetBulb": 25.034113
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 15,
+   "hour": 13,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 310,
+   "pressure": 1015,
+   "tempC": 27.8,
+   "rh": 78,
+   "windSpeed": 2,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 28.15847,
+   "globe": 36.18792,
+   "naturalWetBulb": 25.915552
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 15,
+   "hour": 14,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 500,
+   "pressure": 1015,
+   "tempC": 29.4,
+   "rh": 70,
+   "windSpeed": 2.4,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 29.40287,
+   "globe": 39.970787,
+   "naturalWetBulb": 26.383875
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 15,
+   "hour": 15,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 680,
+   "pressure": 1015,
+   "tempC": 30.8,
+   "rh": 64,
+   "windSpeed": 2.8,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 30.297482,
+   "globe": 42.695915,
+   "naturalWetBulb": 26.683283
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 15,
+   "hour": 16,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 820,
+   "pressure": 1015,
+   "tempC": 31.9,
+   "rh": 59,
+   "windSpeed": 3.1,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 30.871767,
+   "globe": 44.738243,
+   "naturalWetBulb": 26.763025
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 15,
+   "hour": 17,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 900,
+   "pressure": 1015,
+   "tempC": 32.7,
+   "rh": 56,
+   "windSpeed": 3.3,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 31.258526,
+   "globe": 45.982262,
+   "naturalWetBulb": 26.845819
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 15,
+   "hour": 18,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 930,
+   "pressure": 1015,
+   "tempC": 33.3,
+   "rh": 54,
+   "windSpeed": 3.5,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 31.454924,
+   "globe": 46.544304,
+   "naturalWetBulb": 26.880091
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 15,
+   "hour": 19,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 880,
+   "pressure": 1015,
+   "tempC": 33.6,
+   "rh": 53,
+   "windSpeed": 3.6,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 31.465933,
+   "globe": 46.260612,
+   "naturalWetBulb": 26.934015
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 15,
+   "hour": 20,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 760,
+   "pressure": 1015,
+   "tempC": 33.2,
+   "rh": 55,
+   "windSpeed": 3.8,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 31.062706,
+   "globe": 44.506432,
+   "naturalWetBulb": 26.916315
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 15,
+   "hour": 21,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 420,
+   "pressure": 1015,
+   "tempC": 32.4,
+   "rh": 59,
+   "windSpeed": 4,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 29.863747,
+   "globe": 39.667747,
+   "naturalWetBulb": 26.700281
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 15,
+   "hour": 22,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 260,
+   "pressure": 1015,
+   "tempC": 31,
+   "rh": 65,
+   "windSpeed": 3.4,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 28.681238,
+   "globe": 35.890221,
+   "naturalWetBulb": 26.290277
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 15,
+   "hour": 23,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 110,
+   "pressure": 1015,
+   "tempC": 29.8,
+   "rh": 71,
+   "windSpeed": 2.6,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 27.469627,
+   "globe": 31.923151,
+   "naturalWetBulb": 25.864283
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 16,
+   "hour": 0,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 20,
+   "pressure": 1015,
+   "tempC": 28.6,
+   "rh": 77,
+   "windSpeed": 1.9,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 26.334156,
+   "globe": 28.565027,
+   "naturalWetBulb": 25.373072
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 16,
+   "hour": 1,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 0,
+   "pressure": 1015,
+   "tempC": 27.7,
+   "rh": 82,
+   "windSpeed": 1.5,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 25.782389,
+   "globe": 26.949183,
+   "naturalWetBulb": 25.175074
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 16,
+   "hour": 2,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 0,
+   "pressure": 1015,
+   "tempC": 27.1,
+   "rh": 85,
+   "windSpeed": 1.3,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 25.484598,
+   "globe": 26.318537,
+   "naturalWetBulb": 25.015558
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 16,
+   "hour": 3,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 0,
+   "pressure": 1015,
+   "tempC": 26.6,
+   "rh": 87,
+   "windSpeed": 1.1,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 25.172581,
+   "globe": 25.772791,
+   "naturalWetBulb": 24.797174
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 10,
+   "day": 5,
+   "hour": 6,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 612.1,
+   "pressure": 998.4,
+   "tempC": 43,
+   "rh": 86.4,
+   "windSpeed": 3,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 44.58437,
+   "globe": 55.82003,
+   "naturalWetBulb": 41.600517
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 7,
+   "day": 28,
+   "hour": 18,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 368.7,
+   "pressure": 993,
+   "tempC": 18.6,
+   "rh": 32.9,
+   "windSpeed": 0.2,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 21.927181,
+   "globe": 34.524864,
+   "naturalWetBulb": 18.803156
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 5,
+   "day": 22,
+   "hour": 6,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 659.2,
+   "pressure": 1008.8,
+   "tempC": 40.7,
+   "rh": 40.1,
+   "windSpeed": 2.1,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 36.452148,
+   "globe": 55.271416,
+   "naturalWetBulb": 30.468378
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 8,
+   "day": 6,
+   "hour": 17,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 543.1,
+   "pressure": 1012.2,
+   "tempC": 24,
+   "rh": 75.1,
+   "windSpeed": 4.9,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 24.542458,
+   "globe": 32.974236,
+   "naturalWetBulb": 22.210871
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 1,
+   "day": 24,
+   "hour": 5,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 958,
+   "pressure": 1026.1,
+   "tempC": 38.3,
+   "rh": 64.8,
+   "windSpeed": 6.2,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 38.200249,
+   "globe": 54.058556,
+   "naturalWetBulb": 33.655052
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 6,
+   "day": 25,
+   "hour": 16,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 799.4,
+   "pressure": 993.8,
+   "tempC": 37.4,
+   "rh": 41.7,
+   "windSpeed": 4.8,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 32.584042,
+   "globe": 48.638969,
+   "naturalWetBulb": 27.308924
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 5,
+   "day": 7,
+   "hour": 10,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 558.4,
+   "pressure": 998,
+   "tempC": 34.1,
+   "rh": 53.9,
+   "windSpeed": 1.7,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 32.780769,
+   "globe": 47.563469,
+   "naturalWetBulb": 28.368677
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 4,
+   "day": 1,
+   "hour": 6,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 59.3,
+   "pressure": 1016.4,
+   "tempC": 1.6,
+   "rh": 87,
+   "windSpeed": 2.8,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 1.165057,
+   "globe": 1.645258,
+   "naturalWetBulb": 0.965723
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 12,
+   "day": 2,
+   "hour": 23,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 550,
+   "pressure": 1027.5,
+   "tempC": 1.2,
+   "rh": 90.5,
+   "windSpeed": 4.5,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 5.077471,
+   "globe": 10.970026,
+   "naturalWetBulb": 3.947809
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 3,
+   "day": 3,
+   "hour": 16,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 137.6,
+   "pressure": 1012.7,
+   "tempC": 29.6,
+   "rh": 68.2,
+   "windSpeed": 10.9,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 26.83383,
+   "globe": 31.767481,
+   "naturalWetBulb": 25.029047
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 5,
+   "day": 27,
+   "hour": 7,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 209,
+   "pressure": 995.2,
+   "tempC": 17.2,
+   "rh": 90.7,
+   "windSpeed": 7.1,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 17.365528,
+   "globe": 19.747492,
+   "naturalWetBulb": 16.708612
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 1,
+   "day": 7,
+   "hour": 11,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 96.1,
+   "pressure": 1025.5,
+   "tempC": 31.2,
+   "rh": 83.9,
+   "windSpeed": 0.1,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 31.588543,
+   "globe": 35.812767,
+   "naturalWetBulb": 30.437128
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 9,
+   "day": 26,
+   "hour": 6,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 448.9,
+   "pressure": 1012.1,
+   "tempC": 34.8,
+   "rh": 89.1,
+   "windSpeed": 6,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 35.84623,
+   "globe": 42.985191,
+   "naturalWetBulb": 33.955986
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 5,
+   "day": 7,
+   "hour": 15,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 337.9,
+   "pressure": 1019.2,
+   "tempC": 20.1,
+   "rh": 59.9,
+   "windSpeed": 6.6,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 18.416138,
+   "globe": 25.136805,
+   "naturalWetBulb": 16.255396
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 12,
+   "day": 11,
+   "hour": 2,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 711,
+   "pressure": 1015.5,
+   "tempC": 4.1,
+   "rh": 44.8,
+   "windSpeed": 7.9,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 5.947296,
+   "globe": 14.813684,
+   "naturalWetBulb": 3.677942
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 2,
+   "day": 25,
+   "hour": 22,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 103.9,
+   "pressure": 1008.4,
+   "tempC": 31.9,
+   "rh": 17.9,
+   "windSpeed": 6.4,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 21.114222,
+   "globe": 32.459984,
+   "naturalWetBulb": 16.331751
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 9,
+   "day": 12,
+   "hour": 6,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 1014.7,
+   "pressure": 1021.6,
+   "tempC": 38.5,
+   "rh": 66.7,
+   "windSpeed": 3.5,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 40.595356,
+   "globe": 60.613396,
+   "naturalWetBulb": 35.175255
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 3,
+   "hour": 17,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 800.6,
+   "pressure": 1006.6,
+   "tempC": 24.4,
+   "rh": 71.3,
+   "windSpeed": 9.4,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 24.181459,
+   "globe": 33.064354,
+   "naturalWetBulb": 21.612268
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 3,
+   "day": 10,
+   "hour": 9,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 487.9,
+   "pressure": 1008.9,
+   "tempC": 30.2,
+   "rh": 85.8,
+   "windSpeed": 10.8,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 30.67561,
+   "globe": 37.023949,
+   "naturalWetBulb": 28.929743
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 8,
+   "day": 5,
+   "hour": 0,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 596.4,
+   "pressure": 996.6,
+   "tempC": 18.1,
+   "rh": 53.9,
+   "windSpeed": 5.4,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 16.213942,
+   "globe": 24.383173,
+   "naturalWetBulb": 13.610437
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 7,
+   "day": 18,
+   "hour": 12,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 892.3,
+   "pressure": 1026.2,
+   "tempC": 10.3,
+   "rh": 36.1,
+   "windSpeed": 7.1,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 11.460921,
+   "globe": 23.55456,
+   "naturalWetBulb": 8.171442
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 4,
+   "day": 2,
+   "hour": 3,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 891,
+   "pressure": 993.4,
+   "tempC": 38.3,
+   "rh": 34.7,
+   "windSpeed": 5.5,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 33.449879,
+   "globe": 53.331322,
+   "naturalWetBulb": 27.076593
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 2,
+   "day": 2,
+   "hour": 14,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 161.5,
+   "pressure": 1021,
+   "tempC": 14.9,
+   "rh": 46,
+   "windSpeed": 3.1,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 11.904299,
+   "globe": 17.189539,
+   "naturalWetBulb": 9.966272
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 1,
+   "day": 1,
+   "hour": 21,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 332.6,
+   "pressure": 1026.8,
+   "tempC": 27.8,
+   "rh": 25.9,
+   "windSpeed": 5.8,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 20.971081,
+   "globe": 33.652,
+   "naturalWetBulb": 16.3724
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 9,
+   "day": 9,
+   "hour": 9,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 805.6,
+   "pressure": 995.1,
+   "tempC": 4.2,
+   "rh": 53,
+   "windSpeed": 1.6,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 15.288278,
+   "globe": 31.525049,
+   "naturalWetBulb": 12.23324
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 8,
+   "day": 25,
+   "hour": 3,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 127.3,
+   "pressure": 1002.5,
+   "tempC": 43.2,
+   "rh": 17.8,
+   "windSpeed": 7.8,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 29.322968,
+   "globe": 44.241417,
+   "naturalWetBulb": 23.078119
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 10,
+   "day": 11,
+   "hour": 15,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 576.2,
+   "pressure": 1006,
+   "tempC": 40.2,
+   "rh": 69.9,
+   "windSpeed": 6.9,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 38.260777,
+   "globe": 47.658012,
+   "naturalWetBulb": 35.29882
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 11,
+   "day": 22,
+   "hour": 12,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 516.5,
+   "pressure": 992.3,
+   "tempC": 23.2,
+   "rh": 33.6,
+   "windSpeed": 9,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 18.505991,
+   "globe": 29.211725,
+   "naturalWetBulb": 14.776636
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 6,
+   "day": 7,
+   "hour": 11,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 1024,
+   "pressure": 999.8,
+   "tempC": 37.5,
+   "rh": 16.7,
+   "windSpeed": 9.8,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 29.107542,
+   "globe": 51.649986,
+   "naturalWetBulb": 21.46792
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 12,
+   "day": 5,
+   "hour": 20,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 471.9,
+   "pressure": 992.2,
+   "tempC": 1.3,
+   "rh": 75.5,
+   "windSpeed": 10.8,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 2.238747,
+   "globe": 7.037134,
+   "naturalWetBulb": 1.001886
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 5,
+   "day": 27,
+   "hour": 18,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 711,
+   "pressure": 1025.5,
+   "tempC": 36.8,
+   "rh": 84.2,
+   "windSpeed": 8.3,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 37.388439,
+   "globe": 46.162712,
+   "naturalWetBulb": 34.965569
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 1,
+   "hour": 18,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 187.1,
+   "pressure": 1002.4,
+   "tempC": 33.1,
+   "rh": 84,
+   "windSpeed": 6.8,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 32.111324,
+   "globe": 35.772179,
+   "naturalWetBulb": 30.924128
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 4,
+   "day": 22,
+   "hour": 4,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 221.3,
+   "pressure": 1026.1,
+   "tempC": 15.7,
+   "rh": 36.8,
+   "windSpeed": 9,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 11.801931,
+   "globe": 18.932825,
+   "naturalWetBulb": 9.207666
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 5,
+   "day": 25,
+   "hour": 20,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 336.8,
+   "pressure": 1012.2,
+   "tempC": 32.5,
+   "rh": 24.1,
+   "windSpeed": 5.6,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 23.913944,
+   "globe": 36.8395,
+   "naturalWetBulb": 18.994349
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 11,
+   "day": 16,
+   "hour": 6,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 906.8,
+   "pressure": 1025.1,
+   "tempC": 37.9,
+   "rh": 36,
+   "windSpeed": 4.4,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 33.442505,
+   "globe": 52.93026,
+   "naturalWetBulb": 27.237787
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 6,
+   "day": 26,
+   "hour": 3,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 906.5,
+   "pressure": 1007.2,
+   "tempC": 39.6,
+   "rh": 95.9,
+   "windSpeed": 9.8,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 41.994389,
+   "globe": 51.153893,
+   "naturalWetBulb": 39.719444
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 3,
+   "day": 26,
+   "hour": 9,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 553.7,
+   "pressure": 1026.3,
+   "tempC": 28.7,
+   "rh": 48,
+   "windSpeed": 6.5,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 25.673254,
+   "globe": 37.171165,
+   "naturalWetBulb": 21.955744
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 7,
+   "day": 17,
+   "hour": 4,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 622.6,
+   "pressure": 1023.9,
+   "tempC": 19.5,
+   "rh": 84.3,
+   "windSpeed": 1.5,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 23.930338,
+   "globe": 35.29525,
+   "naturalWetBulb": 21.316126
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 1,
+   "day": 8,
+   "hour": 10,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 231.6,
+   "pressure": 999,
+   "tempC": 40.2,
+   "rh": 69.1,
+   "windSpeed": 7.3,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 37.133457,
+   "globe": 43.562065,
+   "naturalWetBulb": 34.858635
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 12,
+   "day": 14,
+   "hour": 2,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 512.8,
+   "pressure": 992.4,
+   "tempC": 2.5,
+   "rh": 63.4,
+   "windSpeed": 8.7,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 3.699009,
+   "globe": 9.303095,
+   "naturalWetBulb": 2.269128
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 9,
+   "hour": 12,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 670.3,
+   "pressure": 1021.3,
+   "tempC": 36.2,
+   "rh": 46.4,
+   "windSpeed": 9.1,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 31.863457,
+   "globe": 45.359093,
+   "naturalWetBulb": 27.388056
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 2,
+   "day": 15,
+   "hour": 13,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 674.4,
+   "pressure": 1012,
+   "tempC": 35.7,
+   "rh": 92.6,
+   "windSpeed": 1.1,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 41.92411,
+   "globe": 59.01165,
+   "naturalWetBulb": 37.931114
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 4,
+   "day": 18,
+   "hour": 4,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 473.9,
+   "pressure": 1001.3,
+   "tempC": 35.3,
+   "rh": 69.9,
+   "windSpeed": 7.9,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 33.511559,
+   "globe": 41.709129,
+   "naturalWetBulb": 30.913904
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 17,
+   "hour": 1,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 1058.3,
+   "pressure": 1001.4,
+   "tempC": 14.6,
+   "rh": 19.9,
+   "windSpeed": 1.5,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 15.023895,
+   "globe": 31.975367,
+   "naturalWetBulb": 10.241175
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 5,
+   "hour": 17,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 973.2,
+   "pressure": 1016.6,
+   "tempC": 10.1,
+   "rh": 17.2,
+   "windSpeed": 3.1,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 9.482663,
+   "globe": 22.808069,
+   "naturalWetBulb": 5.587213
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 8,
+   "day": 9,
+   "hour": 4,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 18,
+   "pressure": 1029.4,
+   "tempC": 22.8,
+   "rh": 85.3,
+   "windSpeed": 4.6,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 21.491844,
+   "globe": 22.601648,
+   "naturalWetBulb": 20.987879
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 5,
+   "day": 7,
+   "hour": 9,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 385.4,
+   "pressure": 997.9,
+   "tempC": 5,
+   "rh": 90,
+   "windSpeed": 11.6,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 6.237473,
+   "globe": 9.42724,
+   "naturalWetBulb": 5.502893
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 8,
+   "day": 1,
+   "hour": 4,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 774.7,
+   "pressure": 1011.6,
+   "tempC": 37.7,
+   "rh": 32.3,
+   "windSpeed": 10.2,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 31.19796,
+   "globe": 48.38073,
+   "naturalWetBulb": 25.359735
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 11,
+   "day": 20,
+   "hour": 2,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 122.3,
+   "pressure": 1016.5,
+   "tempC": 24.5,
+   "rh": 76,
+   "windSpeed": 1.8,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 23.275217,
+   "globe": 27.208887,
+   "naturalWetBulb": 21.976343
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 7,
+   "day": 18,
+   "hour": 4,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 1096,
+   "pressure": 1001.2,
+   "tempC": 26.9,
+   "rh": 62,
+   "windSpeed": 6.3,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 28.55439,
+   "globe": 44.759392,
+   "naturalWetBulb": 24.16073
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 12,
+   "day": 21,
+   "hour": 6,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 766.6,
+   "pressure": 993.6,
+   "tempC": 35.8,
+   "rh": 25.1,
+   "windSpeed": 4.4,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 29.114689,
+   "globe": 48.281853,
+   "naturalWetBulb": 22.683313
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 6,
+   "day": 4,
+   "hour": 9,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 346.2,
+   "pressure": 996.4,
+   "tempC": 11.9,
+   "rh": 92,
+   "windSpeed": 7.6,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 13.143489,
+   "globe": 16.716333,
+   "naturalWetBulb": 12.300318
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 2,
+   "day": 26,
+   "hour": 21,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 603.9,
+   "pressure": 1008.1,
+   "tempC": 17.1,
+   "rh": 32.3,
+   "windSpeed": 9.6,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 13.602158,
+   "globe": 23.875055,
+   "naturalWetBulb": 10.167353
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 6,
+   "day": 26,
+   "hour": 8,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 948.9,
+   "pressure": 1029.8,
+   "tempC": 24.7,
+   "rh": 83.6,
+   "windSpeed": 5.1,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 28.816139,
+   "globe": 42.591698,
+   "naturalWetBulb": 25.468287
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 4,
+   "day": 24,
+   "hour": 14,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 538.7,
+   "pressure": 1018.5,
+   "tempC": 36.2,
+   "rh": 87.5,
+   "windSpeed": 11.1,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 36.55122,
+   "globe": 43.062309,
+   "naturalWetBulb": 34.741081
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 11,
+   "day": 5,
+   "hour": 23,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 586.4,
+   "pressure": 991.5,
+   "tempC": 2.3,
+   "rh": 44.9,
+   "windSpeed": 1.4,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 8.805739,
+   "globe": 19.998621,
+   "naturalWetBulb": 6.537164
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 1,
+   "day": 19,
+   "hour": 2,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 905.4,
+   "pressure": 1029.3,
+   "tempC": 12.7,
+   "rh": 84.8,
+   "windSpeed": 6.5,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 16.301706,
+   "globe": 25.661982,
+   "naturalWetBulb": 14.14187
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 9,
+   "day": 15,
+   "hour": 18,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 383,
+   "pressure": 1019.3,
+   "tempC": 40.7,
+   "rh": 30.9,
+   "windSpeed": 5.8,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 31.912338,
+   "globe": 46.404991,
+   "naturalWetBulb": 26.516199
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 10,
+   "day": 6,
+   "hour": 1,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 958.3,
+   "pressure": 1025.1,
+   "tempC": 20.8,
+   "rh": 33.5,
+   "windSpeed": 4.5,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 18.027483,
+   "globe": 31.358545,
+   "naturalWetBulb": 13.822535
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 2,
+   "day": 22,
+   "hour": 0,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 18.7,
+   "pressure": 1012.4,
+   "tempC": 19.2,
+   "rh": 38.9,
+   "windSpeed": 7.9,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 13.632681,
+   "globe": 18.46734,
+   "naturalWetBulb": 11.456018
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 2,
+   "day": 1,
+   "hour": 17,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 342,
+   "pressure": 1029.3,
+   "tempC": 18,
+   "rh": 91.1,
+   "windSpeed": 6.6,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 18.822899,
+   "globe": 22.79394,
+   "naturalWetBulb": 17.805872
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 11,
+   "day": 24,
+   "hour": 17,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 659.7,
+   "pressure": 1021.3,
+   "tempC": 39.9,
+   "rh": 25.4,
+   "windSpeed": 6.9,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 30.455273,
+   "globe": 47.436211,
+   "naturalWetBulb": 24.254328
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 5,
+   "day": 15,
+   "hour": 22,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 174.4,
+   "pressure": 1025.6,
+   "tempC": 11.9,
+   "rh": 35.8,
+   "windSpeed": 1.9,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 9.02454,
+   "globe": 14.799189,
+   "naturalWetBulb": 6.963861
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 10,
+   "day": 3,
+   "hour": 14,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 246.1,
+   "pressure": 1025.1,
+   "tempC": 33.9,
+   "rh": 74.2,
+   "windSpeed": 1.6,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 32.858429,
+   "globe": 39.98333,
+   "naturalWetBulb": 30.673944
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 10,
+   "day": 7,
+   "hour": 6,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 266,
+   "pressure": 1017.5,
+   "tempC": 32.8,
+   "rh": 83.6,
+   "windSpeed": 7.8,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 32.145699,
+   "globe": 36.768028,
+   "naturalWetBulb": 30.731562
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 12,
+   "day": 24,
+   "hour": 8,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 606.2,
+   "pressure": 1003.6,
+   "tempC": 23.5,
+   "rh": 60.3,
+   "windSpeed": 1.6,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 25.078339,
+   "globe": 38.354759,
+   "naturalWetBulb": 21.510553
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 1,
+   "day": 18,
+   "hour": 9,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 676.1,
+   "pressure": 1011.1,
+   "tempC": 18.4,
+   "rh": 68.2,
+   "windSpeed": 3.9,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 19.985624,
+   "globe": 30.229456,
+   "naturalWetBulb": 17.285334
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 11,
+   "day": 20,
+   "hour": 20,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 788.1,
+   "pressure": 1019.6,
+   "tempC": 2.6,
+   "rh": 77.5,
+   "windSpeed": 10.4,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 4.47367,
+   "globe": 10.730402,
+   "naturalWetBulb": 2.953699
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 1,
+   "day": 10,
+   "hour": 3,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 613.9,
+   "pressure": 998,
+   "tempC": 16.9,
+   "rh": 40.5,
+   "windSpeed": 5.5,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 15.786815,
+   "globe": 26.870386,
+   "naturalWetBulb": 12.461054
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 11,
+   "day": 17,
+   "hour": 8,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 650.4,
+   "pressure": 1011,
+   "tempC": 25.8,
+   "rh": 49,
+   "windSpeed": 5.5,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 24.126869,
+   "globe": 36.585503,
+   "naturalWetBulb": 20.328241
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 10,
+   "day": 6,
+   "hour": 2,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 432.9,
+   "pressure": 1015.3,
+   "tempC": 26.6,
+   "rh": 67.5,
+   "windSpeed": 8.2,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 25.241796,
+   "globe": 32.66674,
+   "naturalWetBulb": 22.926355
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 1,
+   "day": 8,
+   "hour": 18,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 927.8,
+   "pressure": 1001.3,
+   "tempC": 19,
+   "rh": 46.2,
+   "windSpeed": 7.1,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 17.630264,
+   "globe": 29.352808,
+   "naturalWetBulb": 14.085291
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 6,
+   "day": 5,
+   "hour": 19,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 463.2,
+   "pressure": 994.3,
+   "tempC": 9.7,
+   "rh": 53.7,
+   "windSpeed": 11.9,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 8.830334,
+   "globe": 15.007196,
+   "naturalWetBulb": 6.941278
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 11,
+   "day": 21,
+   "hour": 23,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 1038.4,
+   "pressure": 1021.2,
+   "tempC": 10,
+   "rh": 57.1,
+   "windSpeed": 6,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 8.994651,
+   "globe": 15.189264,
+   "naturalWetBulb": 7.08114
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 11,
+   "day": 13,
+   "hour": 8,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 54.3,
+   "pressure": 995.4,
+   "tempC": 39.5,
+   "rh": 89.3,
+   "windSpeed": 7.9,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 38.488663,
+   "globe": 40.473595,
+   "naturalWetBulb": 37.777061
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 4,
+   "day": 6,
+   "hour": 14,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 905.7,
+   "pressure": 1003.4,
+   "tempC": 40.4,
+   "rh": 92.5,
+   "windSpeed": 3.7,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 42.254189,
+   "globe": 51.693474,
+   "naturalWetBulb": 39.822136
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 5,
+   "day": 8,
+   "hour": 14,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 643,
+   "pressure": 1016,
+   "tempC": 24.5,
+   "rh": 94.2,
+   "windSpeed": 2,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 27.025236,
+   "globe": 35.127647,
+   "naturalWetBulb": 25.071009
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 1,
+   "day": 26,
+   "hour": 11,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 107,
+   "pressure": 998.8,
+   "tempC": 36.3,
+   "rh": 79.2,
+   "windSpeed": 0.8,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 35.020645,
+   "globe": 39.813591,
+   "naturalWetBulb": 33.468468
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 1,
+   "day": 12,
+   "hour": 19,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 342.6,
+   "pressure": 1016.3,
+   "tempC": 8.1,
+   "rh": 33.7,
+   "windSpeed": 1.5,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 7.617969,
+   "globe": 15.316553,
+   "naturalWetBulb": 5.349512
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 2,
+   "day": 8,
+   "hour": 2,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 132.3,
+   "pressure": 1009.7,
+   "tempC": 19.2,
+   "rh": 72.7,
+   "windSpeed": 0.7,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 18.464706,
+   "globe": 22.484735,
+   "naturalWetBulb": 17.211084
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 3,
+   "day": 10,
+   "hour": 11,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 872.7,
+   "pressure": 1020,
+   "tempC": 43.1,
+   "rh": 75.3,
+   "windSpeed": 6,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 43.977589,
+   "globe": 58.926079,
+   "naturalWetBulb": 39.831963
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 1,
+   "day": 4,
+   "hour": 7,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 946.3,
+   "pressure": 1010.3,
+   "tempC": 11.5,
+   "rh": 69.2,
+   "windSpeed": 1.6,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 21.273735,
+   "globe": 39.610191,
+   "naturalWetBulb": 17.430994
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 10,
+   "day": 28,
+   "hour": 14,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 1054.6,
+   "pressure": 1027.4,
+   "tempC": 38.7,
+   "rh": 42.8,
+   "windSpeed": 10.4,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 32.421749,
+   "globe": 45.017998,
+   "naturalWetBulb": 27.925928
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 1,
+   "day": 17,
+   "hour": 0,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 115.6,
+   "pressure": 1010.7,
+   "tempC": 0.5,
+   "rh": 87.2,
+   "windSpeed": 0.6,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 2.139261,
+   "globe": 3.524194,
+   "naturalWetBulb": 1.977747
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 10,
+   "day": 22,
+   "hour": 22,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 579.4,
+   "pressure": 993.8,
+   "tempC": 36.1,
+   "rh": 61.1,
+   "windSpeed": 3.2,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 34.536106,
+   "globe": 48.073235,
+   "naturalWetBulb": 30.444941
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 4,
+   "day": 15,
+   "hour": 23,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 816.4,
+   "pressure": 993.5,
+   "tempC": 25.5,
+   "rh": 92.2,
+   "windSpeed": 1.8,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 28.0159,
+   "globe": 36.749077,
+   "naturalWetBulb": 25.880121
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 1,
+   "day": 6,
+   "hour": 18,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 737.1,
+   "pressure": 1017.6,
+   "tempC": 31.9,
+   "rh": 82.2,
+   "windSpeed": 5.4,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 32.332108,
+   "globe": 40.817802,
+   "naturalWetBulb": 29.969355
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 1,
+   "day": 25,
+   "hour": 22,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 228.3,
+   "pressure": 994.4,
+   "tempC": 17.3,
+   "rh": 43.3,
+   "windSpeed": 8.1,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 14.654451,
+   "globe": 23.815149,
+   "naturalWetBulb": 11.659174
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 3,
+   "day": 20,
+   "hour": 23,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 602,
+   "pressure": 1021.7,
+   "tempC": 28.5,
+   "rh": 73.3,
+   "windSpeed": 6.2,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 28.313429,
+   "globe": 37.17144,
+   "naturalWetBulb": 25.755915
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 11,
+   "day": 28,
+   "hour": 15,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 1044.9,
+   "pressure": 1010.7,
+   "tempC": 29.2,
+   "rh": 38,
+   "windSpeed": 2.1,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 33.483463,
+   "globe": 60.300926,
+   "naturalWetBulb": 26.433252
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 5,
+   "day": 20,
+   "hour": 19,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 409.5,
+   "pressure": 996.2,
+   "tempC": 25.5,
+   "rh": 66.5,
+   "windSpeed": 8,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 23.968744,
+   "globe": 31.109735,
+   "naturalWetBulb": 21.709711
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 11,
+   "day": 15,
+   "hour": 20,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 331.8,
+   "pressure": 1013.7,
+   "tempC": 41.5,
+   "rh": 31.5,
+   "windSpeed": 1.2,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 34.281158,
+   "globe": 51.771629,
+   "naturalWetBulb": 28.252619
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 12,
+   "day": 19,
+   "hour": 16,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 71.7,
+   "pressure": 1014.3,
+   "tempC": 26.4,
+   "rh": 54,
+   "windSpeed": 10.3,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 21.793303,
+   "globe": 26.79812,
+   "naturalWetBulb": 19.705256
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 3,
+   "day": 3,
+   "hour": 2,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 996.8,
+   "pressure": 996.1,
+   "tempC": 1.4,
+   "rh": 63.2,
+   "windSpeed": 4,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 7.416694,
+   "globe": 19.073938,
+   "naturalWetBulb": 4.945581
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 1,
+   "day": 13,
+   "hour": 20,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 668.6,
+   "pressure": 1023.3,
+   "tempC": 8.8,
+   "rh": 93.7,
+   "windSpeed": 8,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 10.858972,
+   "globe": 16.24444,
+   "naturalWetBulb": 9.614405
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 2,
+   "day": 11,
+   "hour": 23,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 421.2,
+   "pressure": 1016.9,
+   "tempC": 12.7,
+   "rh": 29,
+   "windSpeed": 10.7,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 9.318899,
+   "globe": 17.97912,
+   "naturalWetBulb": 6.361536
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 6,
+   "day": 4,
+   "hour": 21,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 652.1,
+   "pressure": 1015.9,
+   "tempC": 14,
+   "rh": 25.9,
+   "windSpeed": 9.4,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 10.489664,
+   "globe": 20.122797,
+   "naturalWetBulb": 7.235864
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 5,
+   "day": 1,
+   "hour": 5,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 435.1,
+   "pressure": 990.4,
+   "tempC": 16,
+   "rh": 72.6,
+   "windSpeed": 3.5,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 17.123268,
+   "globe": 24.52035,
+   "naturalWetBulb": 15.170282
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 2,
+   "day": 5,
+   "hour": 14,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 677.4,
+   "pressure": 1017.8,
+   "tempC": 27.6,
+   "rh": 98.4,
+   "windSpeed": 7.9,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 29.261057,
+   "globe": 34.552086,
+   "naturalWetBulb": 27.986628
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 1,
+   "day": 1,
+   "hour": 9,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 727.5,
+   "pressure": 997.6,
+   "tempC": 41.8,
+   "rh": 39.4,
+   "windSpeed": 3.9,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 37.209606,
+   "globe": 56.765434,
+   "naturalWetBulb": 30.966455
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 8,
+   "day": 15,
+   "hour": 9,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 32.3,
+   "pressure": 1027.1,
+   "tempC": 15.4,
+   "rh": 99.5,
+   "windSpeed": 8.8,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 15.369234,
+   "globe": 15.344904,
+   "naturalWetBulb": 15.37179
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 8,
+   "day": 13,
+   "hour": 3,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 179.2,
+   "pressure": 998.8,
+   "tempC": 6.6,
+   "rh": 37.5,
+   "windSpeed": 0.8,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 5.957633,
+   "globe": 11.006495,
+   "naturalWetBulb": 4.423334
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 5,
+   "day": 16,
+   "hour": 0,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 167.2,
+   "pressure": 1005.2,
+   "tempC": 24.6,
+   "rh": 44.8,
+   "windSpeed": 6,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 20.48686,
+   "globe": 29.695978,
+   "naturalWetBulb": 17.268091
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 5,
+   "day": 21,
+   "hour": 21,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 841.8,
+   "pressure": 1012.1,
+   "tempC": 19.9,
+   "rh": 41.5,
+   "windSpeed": 8.2,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 17.193714,
+   "globe": 28.013544,
+   "naturalWetBulb": 13.715723
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 4,
+   "day": 22,
+   "hour": 14,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 745.4,
+   "pressure": 1027.5,
+   "tempC": 10.9,
+   "rh": 58.4,
+   "windSpeed": 4.4,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 11.608778,
+   "globe": 20.749659,
+   "naturalWetBulb": 9.098352
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 2,
+   "day": 1,
+   "hour": 9,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 282.4,
+   "pressure": 1005.3,
+   "tempC": 29.2,
+   "rh": 41.3,
+   "windSpeed": 7.2,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 23.697714,
+   "globe": 32.98336,
+   "naturalWetBulb": 20.258631
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 6,
+   "day": 8,
+   "hour": 13,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 184.8,
+   "pressure": 994.2,
+   "tempC": 5.6,
+   "rh": 18.6,
+   "windSpeed": 5.8,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 2.95155,
+   "globe": 10.700922,
+   "naturalWetBulb": 0.359094
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 5,
+   "day": 12,
+   "hour": 16,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 600,
+   "pressure": 1006.2,
+   "tempC": 10.9,
+   "rh": 76.5,
+   "windSpeed": 10.2,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 11.822777,
+   "globe": 17.963434,
+   "naturalWetBulb": 10.200129
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 3,
+   "day": 2,
+   "hour": 2,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 539.4,
+   "pressure": 1014.4,
+   "tempC": 28.1,
+   "rh": 82.1,
+   "windSpeed": 0.7,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 33.926857,
+   "globe": 49.005211,
+   "naturalWetBulb": 30.451166
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 10,
+   "day": 14,
+   "hour": 19,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 385.8,
+   "pressure": 998.3,
+   "tempC": 22.7,
+   "rh": 36,
+   "windSpeed": 5.7,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 18.090927,
+   "globe": 27.68548,
+   "naturalWetBulb": 14.691187
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 5,
+   "day": 1,
+   "hour": 0,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 704.3,
+   "pressure": 1005.8,
+   "tempC": 8.4,
+   "rh": 61.3,
+   "windSpeed": 9.8,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 7.590391,
+   "globe": 12.960474,
+   "naturalWetBulb": 5.940423
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 3,
+   "day": 16,
+   "hour": 21,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 672.2,
+   "pressure": 995.6,
+   "tempC": 16.1,
+   "rh": 68.6,
+   "windSpeed": 10.2,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 16.264082,
+   "globe": 24.297663,
+   "naturalWetBulb": 13.992212
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 5,
+   "day": 21,
+   "hour": 21,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 704,
+   "pressure": 1026.1,
+   "tempC": 16.4,
+   "rh": 15.2,
+   "windSpeed": 11.1,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 11.282677,
+   "globe": 22.27743,
+   "naturalWetBulb": 7.410272
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 3,
+   "day": 27,
+   "hour": 3,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 418.5,
+   "pressure": 1023,
+   "tempC": 35.7,
+   "rh": 63.2,
+   "windSpeed": 7.8,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 33.148323,
+   "globe": 43.007957,
+   "naturalWetBulb": 29.966761
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 2,
+   "day": 5,
+   "hour": 15,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 773.9,
+   "pressure": 994.1,
+   "tempC": 8.2,
+   "rh": 82.7,
+   "windSpeed": 4,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 10.063818,
+   "globe": 16.649408,
+   "naturalWetBulb": 8.448481
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 4,
+   "day": 3,
+   "hour": 2,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 538.1,
+   "pressure": 1021.9,
+   "tempC": 29.6,
+   "rh": 76.9,
+   "windSpeed": 1.8,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 31.276276,
+   "globe": 42.447166,
+   "naturalWetBulb": 28.32406
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 1,
+   "day": 27,
+   "hour": 21,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 93.1,
+   "pressure": 1006.5,
+   "tempC": 11.1,
+   "rh": 44.2,
+   "windSpeed": 9.1,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 7.626379,
+   "globe": 11.505121,
+   "naturalWetBulb": 6.021936
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 12,
+   "day": 23,
+   "hour": 20,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 28.7,
+   "pressure": 1023.5,
+   "tempC": 39.9,
+   "rh": 28.5,
+   "windSpeed": 9.4,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 29.006483,
+   "globe": 39.723259,
+   "naturalWetBulb": 24.38833
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 9,
+   "day": 24,
+   "hour": 16,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 140.8,
+   "pressure": 1025.6,
+   "tempC": 3.5,
+   "rh": 30.4,
+   "windSpeed": 6,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 0.83863,
+   "globe": 4.775293,
+   "naturalWetBulb": -0.666327
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 9,
+   "day": 9,
+   "hour": 10,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 334,
+   "pressure": 990.4,
+   "tempC": 8.5,
+   "rh": 15.1,
+   "windSpeed": 4.4,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 5.482358,
+   "globe": 13.360895,
+   "naturalWetBulb": 2.800256
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 3,
+   "day": 27,
+   "hour": 4,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 395.1,
+   "pressure": 1021.1,
+   "tempC": 15.9,
+   "rh": 57.4,
+   "windSpeed": 10.7,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 14.45338,
+   "globe": 20.860437,
+   "naturalWetBulb": 12.416132
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 12,
+   "day": 17,
+   "hour": 16,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 205.5,
+   "pressure": 1018.6,
+   "tempC": 20.1,
+   "rh": 67.9,
+   "windSpeed": 7.1,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 18.312733,
+   "globe": 22.744806,
+   "naturalWetBulb": 16.791101
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 1,
+   "day": 13,
+   "hour": 16,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 999.2,
+   "pressure": 1023.3,
+   "tempC": 5.4,
+   "rh": 82.1,
+   "windSpeed": 5.9,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 7.949928,
+   "globe": 15.234156,
+   "naturalWetBulb": 6.232996
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 5,
+   "day": 22,
+   "hour": 13,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 795.5,
+   "pressure": 1029.7,
+   "tempC": 39.9,
+   "rh": 60.1,
+   "windSpeed": 3.4,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 37.188881,
+   "globe": 49.537193,
+   "naturalWetBulb": 33.273491
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 9,
+   "day": 24,
+   "hour": 10,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 924.9,
+   "pressure": 1019.3,
+   "tempC": 9.2,
+   "rh": 56.1,
+   "windSpeed": 2.1,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 17.669603,
+   "globe": 34.735649,
+   "naturalWetBulb": 14.003534
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 12,
+   "day": 3,
+   "hour": 23,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 470.3,
+   "pressure": 1012.9,
+   "tempC": 17.2,
+   "rh": 49.8,
+   "windSpeed": 0.4,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 19.10844,
+   "globe": 32.578575,
+   "naturalWetBulb": 15.532465
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 9,
+   "day": 13,
+   "hour": 3,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 436.9,
+   "pressure": 1003.4,
+   "tempC": 34.3,
+   "rh": 90.6,
+   "windSpeed": 10.6,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 34.758949,
+   "globe": 40.310356,
+   "naturalWetBulb": 33.238396
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 2,
+   "day": 3,
+   "hour": 12,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 753.8,
+   "pressure": 1007.7,
+   "tempC": 12.6,
+   "rh": 39.1,
+   "windSpeed": 1.5,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 16.364679,
+   "globe": 31.347345,
+   "naturalWetBulb": 12.621729
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 5,
+   "day": 17,
+   "hour": 1,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 12.2,
+   "pressure": 1004.4,
+   "tempC": 2.8,
+   "rh": 27.9,
+   "windSpeed": 0.4,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": -2.016145,
+   "globe": -1.000891,
+   "naturalWetBulb": -2.994238
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 12,
+   "day": 17,
+   "hour": 3,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 779.7,
+   "pressure": 1024,
+   "tempC": 23.2,
+   "rh": 80.2,
+   "windSpeed": 9.6,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 24.956642,
+   "globe": 34.491661,
+   "naturalWetBulb": 22.483301
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 10,
+   "day": 22,
+   "hour": 18,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 940.5,
+   "pressure": 994.2,
+   "tempC": 40.6,
+   "rh": 70.5,
+   "windSpeed": 5.2,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 39.550781,
+   "globe": 51.444206,
+   "naturalWetBulb": 36.002769
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 9,
+   "day": 25,
+   "hour": 16,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 726.5,
+   "pressure": 1000.4,
+   "tempC": 23.1,
+   "rh": 43.5,
+   "windSpeed": 9.8,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 20.977665,
+   "globe": 33.260704,
+   "naturalWetBulb": 17.165033
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 8,
+   "day": 16,
+   "hour": 1,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 254.4,
+   "pressure": 991.4,
+   "tempC": 11,
+   "rh": 98.8,
+   "windSpeed": 5,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 13.032741,
+   "globe": 17.762629,
+   "naturalWetBulb": 11.971735
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 7,
+   "day": 7,
+   "hour": 5,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 562.2,
+   "pressure": 992.8,
+   "tempC": 9.7,
+   "rh": 26,
+   "windSpeed": 5.8,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 8.127605,
+   "globe": 17.483759,
+   "naturalWetBulb": 5.229791
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 7,
+   "day": 4,
+   "hour": 2,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 523.7,
+   "pressure": 1028.4,
+   "tempC": 40.4,
+   "rh": 95.4,
+   "windSpeed": 6.6,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 41.174358,
+   "globe": 46.025261,
+   "naturalWetBulb": 39.89901
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 12,
+   "day": 27,
+   "hour": 21,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 754.1,
+   "pressure": 991.6,
+   "tempC": 26.8,
+   "rh": 59.4,
+   "windSpeed": 6.5,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 25.0051,
+   "globe": 35.299828,
+   "naturalWetBulb": 21.807337
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 9,
+   "day": 11,
+   "hour": 22,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 286.5,
+   "pressure": 1025.5,
+   "tempC": 23.1,
+   "rh": 50.3,
+   "windSpeed": 1.3,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 21.157492,
+   "globe": 30.034357,
+   "naturalWetBulb": 18.343744
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 22,
+   "hour": 7,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 262.3,
+   "pressure": 1024.3,
+   "tempC": 8.9,
+   "rh": 53.4,
+   "windSpeed": 5.1,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 7.741035,
+   "globe": 12.63537,
+   "naturalWetBulb": 6.177087
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 4,
+   "day": 14,
+   "hour": 6,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 513,
+   "pressure": 995.1,
+   "tempC": 43.9,
+   "rh": 48.9,
+   "windSpeed": 2.7,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 39.378624,
+   "globe": 54.557915,
+   "naturalWetBulb": 34.395775
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 3,
+   "day": 23,
+   "hour": 7,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 641.1,
+   "pressure": 1002.4,
+   "tempC": 30,
+   "rh": 62.4,
+   "windSpeed": 5.1,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 29.342758,
+   "globe": 41.249901,
+   "naturalWetBulb": 25.846827
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 6,
+   "day": 14,
+   "hour": 12,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 110.6,
+   "pressure": 1010.8,
+   "tempC": 32.1,
+   "rh": 90.4,
+   "windSpeed": 3.4,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 31.703598,
+   "globe": 34.176292,
+   "naturalWetBulb": 30.940485
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 3,
+   "day": 23,
+   "hour": 17,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 464.8,
+   "pressure": 1001.3,
+   "tempC": 10.3,
+   "rh": 23.9,
+   "windSpeed": 8.6,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 7.449733,
+   "globe": 15.729395,
+   "naturalWetBulb": 4.676935
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 4,
+   "day": 12,
+   "hour": 16,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 337.9,
+   "pressure": 1005.3,
+   "tempC": 32.3,
+   "rh": 76.3,
+   "windSpeed": 11.1,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 30.850752,
+   "globe": 36.691795,
+   "naturalWetBulb": 28.974848
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 10,
+   "day": 5,
+   "hour": 23,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 877.8,
+   "pressure": 1022.1,
+   "tempC": 24.2,
+   "rh": 32.5,
+   "windSpeed": 1.1,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 22.333544,
+   "globe": 38.441643,
+   "naturalWetBulb": 17.464594
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 9,
+   "day": 23,
+   "hour": 5,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 834.5,
+   "pressure": 1028.8,
+   "tempC": 19.2,
+   "rh": 54.3,
+   "windSpeed": 2.9,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 21.981371,
+   "globe": 37.145592,
+   "naturalWetBulb": 18.046076
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 5,
+   "day": 23,
+   "hour": 0,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 1073.1,
+   "pressure": 1030,
+   "tempC": 3,
+   "rh": 77.4,
+   "windSpeed": 9.9,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 3.792951,
+   "globe": 8.31167,
+   "naturalWetBulb": 2.615167
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 10,
+   "day": 21,
+   "hour": 11,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 765.6,
+   "pressure": 1015,
+   "tempC": 31.8,
+   "rh": 66.3,
+   "windSpeed": 2.7,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 33.760769,
+   "globe": 50.073845,
+   "naturalWetBulb": 29.379999
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 6,
+   "day": 15,
+   "hour": 5,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 370.7,
+   "pressure": 1001.9,
+   "tempC": 41.2,
+   "rh": 36.5,
+   "windSpeed": 3.6,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 34.068996,
+   "globe": 48.757591,
+   "naturalWetBulb": 28.85354
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 5,
+   "day": 8,
+   "hour": 0,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 311.3,
+   "pressure": 1005.9,
+   "tempC": 40.4,
+   "rh": 49.6,
+   "windSpeed": 2,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 35.8671,
+   "globe": 48.216026,
+   "naturalWetBulb": 31.691278
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 3,
+   "day": 6,
+   "hour": 18,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 710.1,
+   "pressure": 1028.1,
+   "tempC": 34.4,
+   "rh": 18.5,
+   "windSpeed": 9.2,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 24.830217,
+   "globe": 41.199425,
+   "naturalWetBulb": 18.786188
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 11,
+   "day": 23,
+   "hour": 13,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 1058.3,
+   "pressure": 1014.1,
+   "tempC": 41,
+   "rh": 41.6,
+   "windSpeed": 9.1,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 34.015011,
+   "globe": 46.907616,
+   "naturalWetBulb": 29.333551
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 10,
+   "day": 8,
+   "hour": 9,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 366.6,
+   "pressure": 995.3,
+   "tempC": 27.1,
+   "rh": 95.4,
+   "windSpeed": 6.8,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 28.359634,
+   "globe": 32.894127,
+   "naturalWetBulb": 27.244013
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 8,
+   "day": 20,
+   "hour": 0,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 10,
+   "pressure": 1002.6,
+   "tempC": 22.7,
+   "rh": 15.5,
+   "windSpeed": 7,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 13.497109,
+   "globe": 21.5516,
+   "naturalWetBulb": 9.881128
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 11,
+   "day": 2,
+   "hour": 22,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 849.9,
+   "pressure": 1018.8,
+   "tempC": 24.5,
+   "rh": 49.5,
+   "windSpeed": 2.1,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 22.032297,
+   "globe": 32.807854,
+   "naturalWetBulb": 18.601038
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 8,
+   "day": 21,
+   "hour": 15,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 1011.4,
+   "pressure": 1016.2,
+   "tempC": 41.9,
+   "rh": 64.2,
+   "windSpeed": 9.1,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 39.581257,
+   "globe": 51.857262,
+   "naturalWetBulb": 35.742577
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 11,
+   "day": 17,
+   "hour": 11,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 194.5,
+   "pressure": 991.2,
+   "tempC": 3,
+   "rh": 94.1,
+   "windSpeed": 1,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 5.071171,
+   "globe": 7.645196,
+   "naturalWetBulb": 4.631616
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 10,
+   "day": 21,
+   "hour": 15,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 885.6,
+   "pressure": 1014,
+   "tempC": 13.7,
+   "rh": 65.8,
+   "windSpeed": 9.2,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 12.520837,
+   "globe": 17.841028,
+   "naturalWetBulb": 10.832331
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 7,
+   "day": 19,
+   "hour": 10,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 523,
+   "pressure": 1024.4,
+   "tempC": 38.2,
+   "rh": 99.3,
+   "windSpeed": 1.9,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 41.585144,
+   "globe": 51.071983,
+   "naturalWetBulb": 39.358208
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 10,
+   "day": 23,
+   "hour": 5,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 803.9,
+   "pressure": 1012.6,
+   "tempC": 19.8,
+   "rh": 90.5,
+   "windSpeed": 9.4,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 22.535025,
+   "globe": 30.843134,
+   "naturalWetBulb": 20.551996
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 8,
+   "day": 12,
+   "hour": 15,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 565.6,
+   "pressure": 1029.1,
+   "tempC": 31.7,
+   "rh": 57.8,
+   "windSpeed": 2.6,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 29.984276,
+   "globe": 41.885155,
+   "naturalWetBulb": 26.338923
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 4,
+   "day": 14,
+   "hour": 11,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 246.8,
+   "pressure": 1018,
+   "tempC": 5,
+   "rh": 56.8,
+   "windSpeed": 8.3,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 4.027683,
+   "globe": 7.793512,
+   "naturalWetBulb": 2.812829
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 8,
+   "day": 2,
+   "hour": 2,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 177.4,
+   "pressure": 1007.2,
+   "tempC": 28.8,
+   "rh": 41.5,
+   "windSpeed": 8.3,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 23.020336,
+   "globe": 31.597315,
+   "naturalWetBulb": 19.744104
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 4,
+   "day": 13,
+   "hour": 12,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 993.2,
+   "pressure": 998.1,
+   "tempC": 7.6,
+   "rh": 96.3,
+   "windSpeed": 4,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 9.354401,
+   "globe": 13.773706,
+   "naturalWetBulb": 8.342371
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 12,
+   "day": 1,
+   "hour": 16,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 669.4,
+   "pressure": 1009.9,
+   "tempC": 28.2,
+   "rh": 75.1,
+   "windSpeed": 4.8,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 27.681393,
+   "globe": 35.569786,
+   "naturalWetBulb": 25.353479
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 10,
+   "day": 8,
+   "hour": 5,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 901.2,
+   "pressure": 1000.7,
+   "tempC": 30.4,
+   "rh": 73.7,
+   "windSpeed": 7.9,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 31.076817,
+   "globe": 42.603447,
+   "naturalWetBulb": 27.880182
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 11,
+   "day": 3,
+   "hour": 5,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 748.4,
+   "pressure": 1028.7,
+   "tempC": 2.7,
+   "rh": 48.7,
+   "windSpeed": 9.6,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 3.956021,
+   "globe": 11.412714,
+   "naturalWetBulb": 2.004968
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 1,
+   "day": 1,
+   "hour": 13,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 114.4,
+   "pressure": 1002.5,
+   "tempC": 36,
+   "rh": 56.1,
+   "windSpeed": 8.3,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 30.962355,
+   "globe": 37.552483,
+   "naturalWetBulb": 28.359797
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 7,
+   "day": 16,
+   "hour": 2,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 39.1,
+   "pressure": 994.4,
+   "tempC": 42.7,
+   "rh": 56.4,
+   "windSpeed": 1.2,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 37.027981,
+   "globe": 43.816338,
+   "naturalWetBulb": 34.27816
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 12,
+   "day": 13,
+   "hour": 11,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 1072.9,
+   "pressure": 997.2,
+   "tempC": 19.8,
+   "rh": 76.4,
+   "windSpeed": 3.2,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 26.283688,
+   "globe": 44.189262,
+   "naturalWetBulb": 22.094049
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 5,
+   "day": 17,
+   "hour": 7,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 975.4,
+   "pressure": 993.3,
+   "tempC": 6.9,
+   "rh": 86.3,
+   "windSpeed": 2.3,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 17.072535,
+   "globe": 32.904045,
+   "naturalWetBulb": 14.002466
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 6,
+   "day": 13,
+   "hour": 5,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 1001,
+   "pressure": 1020.8,
+   "tempC": 8.5,
+   "rh": 86.5,
+   "windSpeed": 5.8,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 14.633116,
+   "globe": 26.422876,
+   "naturalWetBulb": 12.140772
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 6,
+   "day": 23,
+   "hour": 20,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 501.4,
+   "pressure": 1015.4,
+   "tempC": 23.4,
+   "rh": 50.7,
+   "windSpeed": 10.3,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 20.220533,
+   "globe": 28.468958,
+   "naturalWetBulb": 17.409632
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 3,
+   "day": 11,
+   "hour": 2,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 1011.4,
+   "pressure": 1028.2,
+   "tempC": 38.8,
+   "rh": 69.7,
+   "windSpeed": 1.3,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 42.893772,
+   "globe": 65.765099,
+   "naturalWetBulb": 36.943932
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 2,
+   "day": 8,
+   "hour": 2,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 244,
+   "pressure": 1011.3,
+   "tempC": 40.3,
+   "rh": 54.7,
+   "windSpeed": 1.7,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 36.000259,
+   "globe": 46.408836,
+   "naturalWetBulb": 32.412132
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 4,
+   "day": 3,
+   "hour": 12,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 466,
+   "pressure": 1019.2,
+   "tempC": 18.8,
+   "rh": 38.4,
+   "windSpeed": 6,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 16.068859,
+   "globe": 25.787073,
+   "naturalWetBulb": 12.902063
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 3,
+   "day": 14,
+   "hour": 21,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 810.1,
+   "pressure": 1024.4,
+   "tempC": 21.1,
+   "rh": 34.7,
+   "windSpeed": 2.3,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 20.008892,
+   "globe": 35.727165,
+   "naturalWetBulb": 15.362085
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 7,
+   "day": 9,
+   "hour": 2,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 506.9,
+   "pressure": 1005.5,
+   "tempC": 36.3,
+   "rh": 45.5,
+   "windSpeed": 7.2,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 31.36775,
+   "globe": 43.878166,
+   "naturalWetBulb": 27.088739
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 4,
+   "day": 13,
+   "hour": 19,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 1089.8,
+   "pressure": 1023.9,
+   "tempC": 20.1,
+   "rh": 84.5,
+   "windSpeed": 3.3,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 23.000113,
+   "globe": 34.233452,
+   "naturalWetBulb": 20.204889
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 4,
+   "day": 12,
+   "hour": 14,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 567.9,
+   "pressure": 999.7,
+   "tempC": 22.1,
+   "rh": 63.1,
+   "windSpeed": 4.1,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 21.14415,
+   "globe": 30.062616,
+   "naturalWetBulb": 18.459467
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 4,
+   "day": 6,
+   "hour": 21,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 313.1,
+   "pressure": 1015.3,
+   "tempC": 8.7,
+   "rh": 84.3,
+   "windSpeed": 9.1,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 9.21178,
+   "globe": 12.516047,
+   "naturalWetBulb": 8.340815
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 4,
+   "day": 13,
+   "hour": 9,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 6.7,
+   "pressure": 1023.6,
+   "tempC": 42.8,
+   "rh": 69.4,
+   "windSpeed": 7.7,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 38.838844,
+   "globe": 43.091209,
+   "naturalWetBulb": 37.058006
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 2,
+   "day": 24,
+   "hour": 20,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 959.4,
+   "pressure": 1022.7,
+   "tempC": 11.3,
+   "rh": 17.9,
+   "windSpeed": 6.5,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 8.31974,
+   "globe": 18.940058,
+   "naturalWetBulb": 4.859613
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 2,
+   "hour": 9,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 795.4,
+   "pressure": 1018.2,
+   "tempC": 37.2,
+   "rh": 37.2,
+   "windSpeed": 0.2,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 42.44001,
+   "globe": 71.19973,
+   "naturalWetBulb": 34.971519
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 7,
+   "day": 11,
+   "hour": 12,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 519.2,
+   "pressure": 1010.9,
+   "tempC": 29.6,
+   "rh": 89.5,
+   "windSpeed": 1.5,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 31.771122,
+   "globe": 41.19442,
+   "naturalWetBulb": 29.38891
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 9,
+   "day": 10,
+   "hour": 20,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 27.8,
+   "pressure": 1019.2,
+   "tempC": 33.1,
+   "rh": 95.3,
+   "windSpeed": 11.4,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 32.716797,
+   "globe": 33.473808,
+   "naturalWetBulb": 32.445763
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 2,
+   "day": 24,
+   "hour": 3,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 824.4,
+   "pressure": 1020,
+   "tempC": 11.2,
+   "rh": 63.7,
+   "windSpeed": 7,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 13.068481,
+   "globe": 22.487635,
+   "naturalWetBulb": 10.64422
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 12,
+   "day": 10,
+   "hour": 12,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 497.7,
+   "pressure": 1018.5,
+   "tempC": 16.1,
+   "rh": 94.6,
+   "windSpeed": 6.2,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 18.634298,
+   "globe": 24.535456,
+   "naturalWetBulb": 17.310297
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 6,
+   "day": 27,
+   "hour": 18,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 742.6,
+   "pressure": 996.9,
+   "tempC": 30.3,
+   "rh": 58.2,
+   "windSpeed": 7.3,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 27.974262,
+   "globe": 38.654106,
+   "naturalWetBulb": 24.590631
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 2,
+   "day": 16,
+   "hour": 10,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 486.8,
+   "pressure": 1023.6,
+   "tempC": 36.3,
+   "rh": 59.2,
+   "windSpeed": 9.8,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 33.053806,
+   "globe": 42.814507,
+   "naturalWetBulb": 29.801294
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 1,
+   "day": 16,
+   "hour": 6,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 759.4,
+   "pressure": 996.4,
+   "tempC": 8.9,
+   "rh": 54.2,
+   "windSpeed": 7.2,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 10.103684,
+   "globe": 19.144037,
+   "naturalWetBulb": 7.692682
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 10,
+   "day": 20,
+   "hour": 19,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 409.6,
+   "pressure": 1017.8,
+   "tempC": 26.5,
+   "rh": 51.8,
+   "windSpeed": 10.9,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 23.035822,
+   "globe": 31.559137,
+   "naturalWetBulb": 20.105707
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 6,
+   "day": 21,
+   "hour": 18,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 15.2,
+   "pressure": 1020.2,
+   "tempC": 13,
+   "rh": 85.1,
+   "windSpeed": 7.9,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 11.899791,
+   "globe": 12.570917,
+   "naturalWetBulb": 11.550867
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 23,
+   "hour": 17,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 48.7,
+   "pressure": 1001.6,
+   "tempC": 25,
+   "rh": 67,
+   "windSpeed": 8.4,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 21.926874,
+   "globe": 25.24148,
+   "naturalWetBulb": 20.540827
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 3,
+   "day": 13,
+   "hour": 2,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 962.9,
+   "pressure": 991.2,
+   "tempC": 9.1,
+   "rh": 69.4,
+   "windSpeed": 6.7,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 10.148429,
+   "globe": 17.761499,
+   "naturalWetBulb": 8.123041
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 3,
+   "day": 4,
+   "hour": 17,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 756.3,
+   "pressure": 994.8,
+   "tempC": 40.2,
+   "rh": 47.1,
+   "windSpeed": 2.2,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 36.594734,
+   "globe": 53.944206,
+   "naturalWetBulb": 31.122705
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 2,
+   "day": 3,
+   "hour": 20,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 11.7,
+   "pressure": 1024.4,
+   "tempC": 31.1,
+   "rh": 43,
+   "windSpeed": 0.4,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 24.392241,
+   "globe": 29.806421,
+   "naturalWetBulb": 21.887079
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 4,
+   "day": 5,
+   "hour": 2,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 728.2,
+   "pressure": 1017.1,
+   "tempC": 31.1,
+   "rh": 64.7,
+   "windSpeed": 7.8,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 30.612513,
+   "globe": 42.621544,
+   "naturalWetBulb": 27.111719
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 3,
+   "day": 24,
+   "hour": 8,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 286.7,
+   "pressure": 1018.8,
+   "tempC": 36.6,
+   "rh": 72.5,
+   "windSpeed": 5.4,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 34.583267,
+   "globe": 41.143333,
+   "naturalWetBulb": 32.42086
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 11,
+   "day": 15,
+   "hour": 20,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 442.9,
+   "pressure": 1017.8,
+   "tempC": 28.3,
+   "rh": 91.9,
+   "windSpeed": 2.7,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 30.725746,
+   "globe": 39.670006,
+   "naturalWetBulb": 28.516779
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 4,
+   "day": 3,
+   "hour": 2,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 372.8,
+   "pressure": 1017.6,
+   "tempC": 26.7,
+   "rh": 31.1,
+   "windSpeed": 0.5,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 26.00705,
+   "globe": 40.705101,
+   "naturalWetBulb": 21.708612
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 6,
+   "day": 11,
+   "hour": 10,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 275.7,
+   "pressure": 1012.5,
+   "tempC": 9.6,
+   "rh": 69.7,
+   "windSpeed": 3.1,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 9.711288,
+   "globe": 14.208979,
+   "naturalWetBulb": 8.442133
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 1,
+   "day": 4,
+   "hour": 13,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 696.2,
+   "pressure": 1013.7,
+   "tempC": 9.6,
+   "rh": 79.1,
+   "windSpeed": 9.3,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 9.976053,
+   "globe": 14.777643,
+   "naturalWetBulb": 8.657892
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 12,
+   "day": 26,
+   "hour": 15,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 510.9,
+   "pressure": 1002.6,
+   "tempC": 24.6,
+   "rh": 27.8,
+   "windSpeed": 9,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 18.698435,
+   "globe": 30.717127,
+   "naturalWetBulb": 14.421442
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 3,
+   "day": 23,
+   "hour": 7,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 596,
+   "pressure": 1001.5,
+   "tempC": 6.7,
+   "rh": 77.1,
+   "windSpeed": 0.5,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 16.068218,
+   "globe": 28.549952,
+   "naturalWetBulb": 13.840326
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 3,
+   "day": 17,
+   "hour": 23,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 1050.1,
+   "pressure": 1007.5,
+   "tempC": 8.5,
+   "rh": 29.5,
+   "windSpeed": 2.4,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 7.479313,
+   "globe": 17.213404,
+   "naturalWetBulb": 4.552331
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 8,
+   "day": 28,
+   "hour": 10,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 242.3,
+   "pressure": 1004.9,
+   "tempC": 2.4,
+   "rh": 84.4,
+   "windSpeed": 9.9,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 2.695436,
+   "globe": 4.770166,
+   "naturalWetBulb": 2.144861
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 5,
+   "day": 13,
+   "hour": 1,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 187.3,
+   "pressure": 1023.7,
+   "tempC": 27.7,
+   "rh": 60.4,
+   "windSpeed": 0.3,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 26.721544,
+   "globe": 34.582176,
+   "naturalWetBulb": 24.335871
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 4,
+   "day": 4,
+   "hour": 9,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 597,
+   "pressure": 997.9,
+   "tempC": 43.1,
+   "rh": 35.4,
+   "windSpeed": 9.3,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 35.037865,
+   "globe": 50.423729,
+   "naturalWetBulb": 29.490168
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 3,
+   "day": 28,
+   "hour": 11,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 981.9,
+   "pressure": 1017.4,
+   "tempC": 37.8,
+   "rh": 56.6,
+   "windSpeed": 2.4,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 39.761845,
+   "globe": 62.717888,
+   "naturalWetBulb": 33.483238
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 12,
+   "day": 23,
+   "hour": 11,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 1083.9,
+   "pressure": 1014.7,
+   "tempC": 20.2,
+   "rh": 37,
+   "windSpeed": 5.1,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 20.499605,
+   "globe": 37.216759,
+   "naturalWetBulb": 15.766077
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 9,
+   "day": 10,
+   "hour": 20,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 466.8,
+   "pressure": 1025.9,
+   "tempC": 39.7,
+   "rh": 72.5,
+   "windSpeed": 1.9,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 39.141655,
+   "globe": 50.292168,
+   "naturalWetBulb": 35.87603
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 9,
+   "day": 9,
+   "hour": 4,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 113.9,
+   "pressure": 1007.4,
+   "tempC": 30.9,
+   "rh": 80.1,
+   "windSpeed": 7.4,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 29.22271,
+   "globe": 32.329033,
+   "naturalWetBulb": 28.095575
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 4,
+   "day": 23,
+   "hour": 3,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 223.3,
+   "pressure": 1026.8,
+   "tempC": 5.2,
+   "rh": 71.3,
+   "windSpeed": 7.6,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 4.996353,
+   "globe": 8.227015,
+   "naturalWetBulb": 4.044214
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 8,
+   "day": 12,
+   "hour": 21,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 104.5,
+   "pressure": 1016.3,
+   "tempC": 21.4,
+   "rh": 67.4,
+   "windSpeed": 7.1,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 18.927025,
+   "globe": 22.440973,
+   "naturalWetBulb": 17.569757
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 1,
+   "day": 26,
+   "hour": 0,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 1038.9,
+   "pressure": 1007.5,
+   "tempC": 29.4,
+   "rh": 52.6,
+   "windSpeed": 8.7,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 25.960005,
+   "globe": 36.022453,
+   "naturalWetBulb": 22.593592
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 10,
+   "day": 22,
+   "hour": 10,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 274.4,
+   "pressure": 997.7,
+   "tempC": 15.6,
+   "rh": 35,
+   "windSpeed": 8.6,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 11.498249,
+   "globe": 18.392603,
+   "naturalWetBulb": 8.942469
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 5,
+   "day": 26,
+   "hour": 13,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 972.6,
+   "pressure": 1019.9,
+   "tempC": 1.8,
+   "rh": 28.7,
+   "windSpeed": 2.4,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 3.436116,
+   "globe": 13.750666,
+   "naturalWetBulb": 0.722833
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 4,
+   "day": 16,
+   "hour": 7,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 311.6,
+   "pressure": 991.8,
+   "tempC": 6.2,
+   "rh": 37,
+   "windSpeed": 3.8,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 4.832766,
+   "globe": 10.817743,
+   "naturalWetBulb": 2.927454
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 5,
+   "day": 7,
+   "hour": 14,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 576.2,
+   "pressure": 1027.9,
+   "tempC": 15.5,
+   "rh": 54.6,
+   "windSpeed": 7.3,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 14.262916,
+   "globe": 21.980524,
+   "naturalWetBulb": 11.881159
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 11,
+   "day": 10,
+   "hour": 8,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 381.2,
+   "pressure": 1019.6,
+   "tempC": 38,
+   "rh": 42.4,
+   "windSpeed": 5.6,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 31.753635,
+   "globe": 43.590721,
+   "naturalWetBulb": 27.479273
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 12,
+   "day": 22,
+   "hour": 9,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 327,
+   "pressure": 1016.2,
+   "tempC": 8.1,
+   "rh": 81.7,
+   "windSpeed": 4.8,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 9.236023,
+   "globe": 13.392176,
+   "naturalWetBulb": 8.21084
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 5,
+   "day": 7,
+   "hour": 15,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 210.4,
+   "pressure": 999.6,
+   "tempC": 30.4,
+   "rh": 15.3,
+   "windSpeed": 0.8,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 21.971476,
+   "globe": 35.020683,
+   "naturalWetBulb": 17.039057
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 4,
+   "day": 15,
+   "hour": 19,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 981.1,
+   "pressure": 1016.8,
+   "tempC": 32.3,
+   "rh": 48.5,
+   "windSpeed": 0.4,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 35.068367,
+   "globe": 59.101341,
+   "naturalWetBulb": 28.597284
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 8,
+   "day": 25,
+   "hour": 14,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 795.1,
+   "pressure": 1023.6,
+   "tempC": 5.5,
+   "rh": 71.7,
+   "windSpeed": 6,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 7.149912,
+   "globe": 14.372614,
+   "naturalWetBulb": 5.321985
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 11,
+   "day": 17,
+   "hour": 7,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 531.2,
+   "pressure": 994.3,
+   "tempC": 33.5,
+   "rh": 80.7,
+   "windSpeed": 1.2,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 35.926392,
+   "globe": 48.449455,
+   "naturalWetBulb": 32.695
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 9,
+   "day": 8,
+   "hour": 22,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 151.3,
+   "pressure": 1022.8,
+   "tempC": 4.2,
+   "rh": 55.4,
+   "windSpeed": 3.4,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 2.902212,
+   "globe": 5.923669,
+   "naturalWetBulb": 1.85354
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 6,
+   "day": 25,
+   "hour": 12,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 226.7,
+   "pressure": 1022.5,
+   "tempC": 18.8,
+   "rh": 42,
+   "windSpeed": 6.6,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 15.081231,
+   "globe": 22.361811,
+   "naturalWetBulb": 12.469812
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 8,
+   "day": 3,
+   "hour": 14,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 865.5,
+   "pressure": 1005.9,
+   "tempC": 17.6,
+   "rh": 32.2,
+   "windSpeed": 10.8,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 13.575833,
+   "globe": 23.189234,
+   "naturalWetBulb": 10.254267
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 4,
+   "day": 28,
+   "hour": 11,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 559.7,
+   "pressure": 1026.8,
+   "tempC": 32.3,
+   "rh": 72.5,
+   "windSpeed": 0.9,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 33.164322,
+   "globe": 45.426903,
+   "naturalWetBulb": 29.784204
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 9,
+   "day": 16,
+   "hour": 11,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 555,
+   "pressure": 1018.9,
+   "tempC": 8.8,
+   "rh": 20.8,
+   "windSpeed": 3,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 9.280331,
+   "globe": 20.382593,
+   "naturalWetBulb": 6.176874
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 1,
+   "day": 20,
+   "hour": 5,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 732.7,
+   "pressure": 1028.5,
+   "tempC": 12.5,
+   "rh": 67.9,
+   "windSpeed": 0.4,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 28.22031,
+   "globe": 47.807121,
+   "naturalWetBulb": 24.869837
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 3,
+   "day": 21,
+   "hour": 18,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 328.4,
+   "pressure": 1006.8,
+   "tempC": 31.5,
+   "rh": 73.4,
+   "windSpeed": 0.7,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 32.225956,
+   "globe": 42.069237,
+   "naturalWetBulb": 29.517298
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 6,
+   "day": 7,
+   "hour": 8,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 103.3,
+   "pressure": 1029.8,
+   "tempC": 20.6,
+   "rh": 30.5,
+   "windSpeed": 8.2,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 14.374265,
+   "globe": 21.130365,
+   "naturalWetBulb": 11.55456
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 11,
+   "day": 22,
+   "hour": 15,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 944.4,
+   "pressure": 990.2,
+   "tempC": 2,
+   "rh": 72,
+   "windSpeed": 11,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 6.042566,
+   "globe": 14.943476,
+   "naturalWetBulb": 4.076959
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 2,
+   "day": 24,
+   "hour": 14,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 643.8,
+   "pressure": 1005,
+   "tempC": 4,
+   "rh": 84.6,
+   "windSpeed": 10.6,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 5.539829,
+   "globe": 10.720881,
+   "naturalWetBulb": 4.279504
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 4,
+   "day": 9,
+   "hour": 17,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 621,
+   "pressure": 1015.9,
+   "tempC": 32.4,
+   "rh": 27.4,
+   "windSpeed": 10.7,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 24.685411,
+   "globe": 38.286644,
+   "naturalWetBulb": 19.69726
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 11,
+   "day": 28,
+   "hour": 7,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 433,
+   "pressure": 993.7,
+   "tempC": 37.2,
+   "rh": 86.6,
+   "windSpeed": 1.2,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 39.240822,
+   "globe": 49.677147,
+   "naturalWetBulb": 36.55056
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 5,
+   "day": 10,
+   "hour": 16,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 440.1,
+   "pressure": 991.2,
+   "tempC": 15.6,
+   "rh": 59.4,
+   "windSpeed": 10.4,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 14.112815,
+   "globe": 20.237299,
+   "naturalWetBulb": 12.150507
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 10,
+   "day": 6,
+   "hour": 0,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 184.1,
+   "pressure": 1006.7,
+   "tempC": 27.4,
+   "rh": 40.3,
+   "windSpeed": 4.6,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 21.856234,
+   "globe": 30.164576,
+   "naturalWetBulb": 18.690454
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 4,
+   "day": 3,
+   "hour": 13,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 849.5,
+   "pressure": 1001,
+   "tempC": 15.6,
+   "rh": 85.9,
+   "windSpeed": 4.6,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 19.503559,
+   "globe": 29.832972,
+   "naturalWetBulb": 17.109949
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 4,
+   "day": 5,
+   "hour": 15,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 953.8,
+   "pressure": 1006,
+   "tempC": 10,
+   "rh": 46.9,
+   "windSpeed": 1,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 15.467472,
+   "globe": 32.564507,
+   "naturalWetBulb": 11.363672
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 9,
+   "day": 23,
+   "hour": 3,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 1020.8,
+   "pressure": 1023.5,
+   "tempC": 34.1,
+   "rh": 21.5,
+   "windSpeed": 3.9,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 30.185383,
+   "globe": 54.359917,
+   "naturalWetBulb": 22.719141
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 7,
+   "day": 15,
+   "hour": 15,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 478.5,
+   "pressure": 1018.1,
+   "tempC": 7.5,
+   "rh": 59.2,
+   "windSpeed": 10.1,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 6.996946,
+   "globe": 12.270899,
+   "naturalWetBulb": 5.418237
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 2,
+   "day": 11,
+   "hour": 16,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 545.4,
+   "pressure": 991.4,
+   "tempC": 20.6,
+   "rh": 41.5,
+   "windSpeed": 10.8,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 16.970627,
+   "globe": 26.426447,
+   "naturalWetBulb": 13.750483
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 5,
+   "day": 16,
+   "hour": 21,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 169.6,
+   "pressure": 1020.1,
+   "tempC": 1.8,
+   "rh": 50.7,
+   "windSpeed": 9.1,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 0.255977,
+   "globe": 3.121545,
+   "naturalWetBulb": -0.783331
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 4,
+   "day": 27,
+   "hour": 23,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 1029.3,
+   "pressure": 1019.9,
+   "tempC": 20.6,
+   "rh": 76.9,
+   "windSpeed": 7.4,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 20.464003,
+   "globe": 26.876001,
+   "naturalWetBulb": 18.612574
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 7,
+   "day": 23,
+   "hour": 14,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 116.3,
+   "pressure": 991.5,
+   "tempC": 3.1,
+   "rh": 45.7,
+   "windSpeed": 7.4,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 0.876767,
+   "globe": 3.771875,
+   "naturalWetBulb": -0.268011
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 5,
+   "day": 11,
+   "hour": 6,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 1098.4,
+   "pressure": 1022.1,
+   "tempC": 17,
+   "rh": 40.8,
+   "windSpeed": 1.6,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 25.276447,
+   "globe": 48.863213,
+   "naturalWetBulb": 19.719721
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 10,
+   "day": 26,
+   "hour": 20,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 367.4,
+   "pressure": 1020.2,
+   "tempC": 19.9,
+   "rh": 49.4,
+   "windSpeed": 4.6,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 17.359142,
+   "globe": 25.464685,
+   "naturalWetBulb": 14.680292
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 9,
+   "day": 10,
+   "hour": 0,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 242,
+   "pressure": 1014.6,
+   "tempC": 9.3,
+   "rh": 63.7,
+   "windSpeed": 3.6,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 8.867522,
+   "globe": 13.294611,
+   "naturalWetBulb": 7.540857
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 7,
+   "day": 16,
+   "hour": 19,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 347.4,
+   "pressure": 1006,
+   "tempC": 24.9,
+   "rh": 69.2,
+   "windSpeed": 6.6,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 23.729231,
+   "globe": 30.391077,
+   "naturalWetBulb": 21.658594
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 11,
+   "day": 14,
+   "hour": 17,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 825.4,
+   "pressure": 1005.2,
+   "tempC": 8.3,
+   "rh": 60.3,
+   "windSpeed": 7.5,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 8.878273,
+   "globe": 16.745203,
+   "naturalWetBulb": 6.71319
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 8,
+   "day": 26,
+   "hour": 15,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 379.4,
+   "pressure": 997.1,
+   "tempC": 21.2,
+   "rh": 24.7,
+   "windSpeed": 5.5,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 15.892001,
+   "globe": 26.534784,
+   "naturalWetBulb": 12.09292
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 7,
+   "day": 9,
+   "hour": 4,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 278.2,
+   "pressure": 1004.9,
+   "tempC": 24.5,
+   "rh": 19.2,
+   "windSpeed": 10,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 16.540815,
+   "globe": 27.007227,
+   "naturalWetBulb": 12.413385
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 3,
+   "day": 23,
+   "hour": 2,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 200.6,
+   "pressure": 1027.7,
+   "tempC": 27.9,
+   "rh": 82.5,
+   "windSpeed": 2.6,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 27.591892,
+   "globe": 32.225487,
+   "naturalWetBulb": 26.223993
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 9,
+   "day": 13,
+   "hour": 1,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 585.4,
+   "pressure": 1028.5,
+   "tempC": 1.3,
+   "rh": 25.5,
+   "windSpeed": 5.7,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 2.209169,
+   "globe": 10.293756,
+   "naturalWetBulb": 0.029169
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 11,
+   "day": 7,
+   "hour": 9,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 299.5,
+   "pressure": 1010.2,
+   "tempC": 42.6,
+   "rh": 44.5,
+   "windSpeed": 5.4,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 35.990223,
+   "globe": 47.974632,
+   "naturalWetBulb": 31.621851
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 1,
+   "day": 4,
+   "hour": 18,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 26,
+   "pressure": 1008.4,
+   "tempC": 9.7,
+   "rh": 27.3,
+   "windSpeed": 4.4,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 4.771231,
+   "globe": 8.711359,
+   "naturalWetBulb": 2.94137
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 6,
+   "day": 9,
+   "hour": 6,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 490.8,
+   "pressure": 1016.3,
+   "tempC": 15.2,
+   "rh": 40.5,
+   "windSpeed": 0.6,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 21.399338,
+   "globe": 35.660454,
+   "naturalWetBulb": 18.210352
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 3,
+   "day": 22,
+   "hour": 21,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 857.5,
+   "pressure": 1012.9,
+   "tempC": 21.5,
+   "rh": 63.6,
+   "windSpeed": 0.4,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 27.193968,
+   "globe": 45.606499,
+   "naturalWetBulb": 22.746668
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 9,
+   "day": 7,
+   "hour": 15,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 927.3,
+   "pressure": 992.6,
+   "tempC": 28.5,
+   "rh": 15.3,
+   "windSpeed": 11.7,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 19.25716,
+   "globe": 33.113792,
+   "naturalWetBulb": 13.977716
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 11,
+   "day": 5,
+   "hour": 3,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 87.8,
+   "pressure": 1023,
+   "tempC": 8.5,
+   "rh": 68.9,
+   "windSpeed": 0.7,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 7.945667,
+   "globe": 10.019403,
+   "naturalWetBulb": 7.273981
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 9,
+   "day": 18,
+   "hour": 22,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 78.1,
+   "pressure": 998.3,
+   "tempC": 24.2,
+   "rh": 88.5,
+   "windSpeed": 6.7,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 23.466705,
+   "globe": 25.097559,
+   "naturalWetBulb": 22.89599
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 10,
+   "day": 13,
+   "hour": 20,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 1012,
+   "pressure": 1027.4,
+   "tempC": 42.7,
+   "rh": 56.2,
+   "windSpeed": 3.7,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 39.393528,
+   "globe": 53.633995,
+   "naturalWetBulb": 34.85247
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 10,
+   "day": 22,
+   "hour": 5,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 503.6,
+   "pressure": 1001,
+   "tempC": 43.6,
+   "rh": 20.7,
+   "windSpeed": 8.8,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 31.999304,
+   "globe": 50.158958,
+   "naturalWetBulb": 25.153589
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 3,
+   "day": 12,
+   "hour": 5,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 1064.7,
+   "pressure": 1021.9,
+   "tempC": 0,
+   "rh": 42.2,
+   "windSpeed": 4.2,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 7.481775,
+   "globe": 21.49975,
+   "naturalWetBulb": 4.545465
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 3,
+   "day": 8,
+   "hour": 7,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 566.9,
+   "pressure": 1025.6,
+   "tempC": 37.9,
+   "rh": 18.7,
+   "windSpeed": 5.8,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 28.291471,
+   "globe": 46.480644,
+   "naturalWetBulb": 21.721918
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 8,
+   "day": 26,
+   "hour": 22,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 818.4,
+   "pressure": 1002.2,
+   "tempC": 28.3,
+   "rh": 57.4,
+   "windSpeed": 3.5,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 27.244698,
+   "globe": 40.467369,
+   "naturalWetBulb": 23.316034
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 9,
+   "day": 11,
+   "hour": 15,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 550.6,
+   "pressure": 1019.8,
+   "tempC": 2.8,
+   "rh": 59,
+   "windSpeed": 5.2,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 3.852462,
+   "globe": 10.804651,
+   "naturalWetBulb": 2.016473
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 6,
+   "day": 16,
+   "hour": 4,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 651.3,
+   "pressure": 998.8,
+   "tempC": 11,
+   "rh": 99.4,
+   "windSpeed": 0.6,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 23.148365,
+   "globe": 37.959068,
+   "naturalWetBulb": 20.652216
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 5,
+   "day": 7,
+   "hour": 13,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 550.2,
+   "pressure": 1020,
+   "tempC": 37.8,
+   "rh": 35.1,
+   "windSpeed": 12,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 30.113949,
+   "globe": 43.482964,
+   "naturalWetBulb": 25.196222
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 3,
+   "day": 18,
+   "hour": 14,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 95.7,
+   "pressure": 1006,
+   "tempC": 43,
+   "rh": 67.5,
+   "windSpeed": 11.2,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 38.97596,
+   "globe": 44.320641,
+   "naturalWetBulb": 36.874046
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 7,
+   "day": 25,
+   "hour": 10,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 626.3,
+   "pressure": 1007.9,
+   "tempC": 3.6,
+   "rh": 25.3,
+   "windSpeed": 1.5,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 10.959858,
+   "globe": 24.256433,
+   "naturalWetBulb": 8.212244
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 9,
+   "day": 27,
+   "hour": 23,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 583.9,
+   "pressure": 994.6,
+   "tempC": 31.6,
+   "rh": 24.1,
+   "windSpeed": 9.9,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 23.767078,
+   "globe": 38.751854,
+   "naturalWetBulb": 18.366724
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 6,
+   "day": 27,
+   "hour": 6,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 475.2,
+   "pressure": 1000.6,
+   "tempC": 15,
+   "rh": 94.6,
+   "windSpeed": 3.1,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 17.872375,
+   "globe": 24.071314,
+   "naturalWetBulb": 16.511591
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 10,
+   "day": 26,
+   "hour": 0,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 853.2,
+   "pressure": 1002.1,
+   "tempC": 18.9,
+   "rh": 43.3,
+   "windSpeed": 3.6,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 19.621187,
+   "globe": 34.280876,
+   "naturalWetBulb": 15.53573
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 11,
+   "day": 21,
+   "hour": 17,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 127.8,
+   "pressure": 990,
+   "tempC": 20.5,
+   "rh": 16.9,
+   "windSpeed": 11,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 12.566959,
+   "globe": 21.003748,
+   "naturalWetBulb": 9.023157
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 10,
+   "day": 24,
+   "hour": 8,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 35.8,
+   "pressure": 1009.2,
+   "tempC": 40.5,
+   "rh": 45.6,
+   "windSpeed": 6.6,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 32.893764,
+   "globe": 40.785118,
+   "naturalWetBulb": 29.552485
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 11,
+   "day": 6,
+   "hour": 2,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 608.3,
+   "pressure": 1010.2,
+   "tempC": 5.4,
+   "rh": 16.5,
+   "windSpeed": 12,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 3.397633,
+   "globe": 11.432154,
+   "naturalWetBulb": 0.816003
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 3,
+   "day": 7,
+   "hour": 12,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 218.3,
+   "pressure": 1011.8,
+   "tempC": 43,
+   "rh": 29.2,
+   "windSpeed": 10.7,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 32.245083,
+   "globe": 45.208336,
+   "naturalWetBulb": 27.004877
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 9,
+   "day": 19,
+   "hour": 17,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 391,
+   "pressure": 1006.1,
+   "tempC": 2.5,
+   "rh": 20.2,
+   "windSpeed": 8.7,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 0.695215,
+   "globe": 6.850824,
+   "naturalWetBulb": -1.321356
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 3,
+   "day": 22,
+   "hour": 13,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 896.5,
+   "pressure": 1010.3,
+   "tempC": 15.7,
+   "rh": 53.8,
+   "windSpeed": 11.7,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 13.493124,
+   "globe": 20.153803,
+   "naturalWetBulb": 11.274805
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 10,
+   "day": 19,
+   "hour": 19,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 1053.1,
+   "pressure": 991.9,
+   "tempC": 14.1,
+   "rh": 42.1,
+   "windSpeed": 3.2,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 13.957352,
+   "globe": 26.249323,
+   "naturalWetBulb": 10.424982
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 4,
+   "day": 8,
+   "hour": 16,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 849.1,
+   "pressure": 990.3,
+   "tempC": 30.4,
+   "rh": 92.3,
+   "windSpeed": 10.3,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 33.039978,
+   "globe": 42.768822,
+   "naturalWetBulb": 30.637445
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 8,
+   "day": 24,
+   "hour": 9,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 1.6,
+   "pressure": 1005.2,
+   "tempC": 6,
+   "rh": 27.9,
+   "windSpeed": 4.5,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 1.574961,
+   "globe": 4.559198,
+   "naturalWetBulb": 0.090173
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 10,
+   "day": 28,
+   "hour": 9,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 101.3,
+   "pressure": 993.1,
+   "tempC": 3.6,
+   "rh": 24.2,
+   "windSpeed": 7.7,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 0.105972,
+   "globe": 3.887598,
+   "naturalWetBulb": -1.473639
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 12,
+   "day": 15,
+   "hour": 14,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 353.6,
+   "pressure": 1025.2,
+   "tempC": 14.1,
+   "rh": 33.9,
+   "windSpeed": 3,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 12.260065,
+   "globe": 21.036768,
+   "naturalWetBulb": 9.489588
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 12,
+   "day": 4,
+   "hour": 12,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 169.3,
+   "pressure": 1026,
+   "tempC": 43,
+   "rh": 52.8,
+   "windSpeed": 7.7,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 36.984158,
+   "globe": 45.533684,
+   "naturalWetBulb": 33.68203
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 5,
+   "day": 12,
+   "hour": 22,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 209.6,
+   "pressure": 1016.1,
+   "tempC": 29.7,
+   "rh": 59.1,
+   "windSpeed": 5.5,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 26.252005,
+   "globe": 32.886101,
+   "naturalWetBulb": 23.863977
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 12,
+   "day": 12,
+   "hour": 13,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 712.3,
+   "pressure": 1008.2,
+   "tempC": 1.6,
+   "rh": 32.9,
+   "windSpeed": 8.9,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 3.075595,
+   "globe": 11.730188,
+   "naturalWetBulb": 0.813654
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 7,
+   "day": 13,
+   "hour": 19,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 283.4,
+   "pressure": 1022.5,
+   "tempC": 4.1,
+   "rh": 74.5,
+   "windSpeed": 11.3,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 4.111572,
+   "globe": 7.080865,
+   "naturalWetBulb": 3.264856
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 10,
+   "day": 27,
+   "hour": 2,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 617,
+   "pressure": 1019.5,
+   "tempC": 25,
+   "rh": 24.5,
+   "windSpeed": 4.1,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 20.429367,
+   "globe": 34.917168,
+   "naturalWetBulb": 15.637049
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 1,
+   "day": 23,
+   "hour": 18,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 141,
+   "pressure": 1018,
+   "tempC": 38.9,
+   "rh": 28.6,
+   "windSpeed": 10,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 28.619062,
+   "globe": 40.106438,
+   "naturalWetBulb": 23.86825
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 7,
+   "day": 13,
+   "hour": 5,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 573.2,
+   "pressure": 994.6,
+   "tempC": 15.3,
+   "rh": 40.3,
+   "windSpeed": 8.2,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 13.815331,
+   "globe": 23.66186,
+   "naturalWetBulb": 10.789942
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 8,
+   "day": 10,
+   "hour": 6,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 82.7,
+   "pressure": 1009.8,
+   "tempC": 10.6,
+   "rh": 42.1,
+   "windSpeed": 7.2,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 6.987216,
+   "globe": 10.816553,
+   "naturalWetBulb": 5.377008
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 5,
+   "day": 18,
+   "hour": 0,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 801.7,
+   "pressure": 1006.4,
+   "tempC": 26.2,
+   "rh": 61.7,
+   "windSpeed": 2.9,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 24.452032,
+   "globe": 33.519676,
+   "naturalWetBulb": 21.611567
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 11,
+   "day": 11,
+   "hour": 8,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 581,
+   "pressure": 1012.1,
+   "tempC": 2.2,
+   "rh": 81.8,
+   "windSpeed": 6.8,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 5.078527,
+   "globe": 10.936304,
+   "naturalWetBulb": 3.816095
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 12,
+   "day": 25,
+   "hour": 10,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 684,
+   "pressure": 1018.3,
+   "tempC": 16.6,
+   "rh": 79,
+   "windSpeed": 11.3,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 17.545263,
+   "globe": 24.210871,
+   "naturalWetBulb": 15.775843
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 2,
+   "day": 27,
+   "hour": 19,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 1093.9,
+   "pressure": 1009.1,
+   "tempC": 18,
+   "rh": 86.9,
+   "windSpeed": 11.7,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 19.200377,
+   "globe": 25.725092,
+   "naturalWetBulb": 17.507654
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 8,
+   "day": 14,
+   "hour": 4,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 79.6,
+   "pressure": 1014.2,
+   "tempC": 39.4,
+   "rh": 21.6,
+   "windSpeed": 1.6,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 27.769926,
+   "globe": 40.085838,
+   "naturalWetBulb": 22.589655
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 2,
+   "day": 1,
+   "hour": 23,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 488.1,
+   "pressure": 1011.4,
+   "tempC": 16.9,
+   "rh": 16.4,
+   "windSpeed": 0.9,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 17.795099,
+   "globe": 32.515129,
+   "naturalWetBulb": 13.717249
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 4,
+   "day": 14,
+   "hour": 10,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 1057.9,
+   "pressure": 1004.9,
+   "tempC": 6.2,
+   "rh": 47.1,
+   "windSpeed": 4.7,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 10.455791,
+   "globe": 23.577539,
+   "naturalWetBulb": 7.314691
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 2,
+   "day": 9,
+   "hour": 11,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 30.3,
+   "pressure": 1004.6,
+   "tempC": 2,
+   "rh": 93.4,
+   "windSpeed": 2.3,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 1.493082,
+   "globe": 1.253137,
+   "naturalWetBulb": 1.489221
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 3,
+   "day": 6,
+   "hour": 12,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 484.2,
+   "pressure": 1000.9,
+   "tempC": 42,
+   "rh": 39.8,
+   "windSpeed": 0.5,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 40.203323,
+   "globe": 61.037895,
+   "naturalWetBulb": 33.993919
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 3,
+   "day": 1,
+   "hour": 2,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 46.8,
+   "pressure": 1017.5,
+   "tempC": 15.3,
+   "rh": 45.5,
+   "windSpeed": 11.3,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 11.101821,
+   "globe": 15.126307,
+   "naturalWetBulb": 9.352228
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 11,
+   "day": 10,
+   "hour": 10,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 719,
+   "pressure": 993.1,
+   "tempC": 21.9,
+   "rh": 98.6,
+   "windSpeed": 4.1,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 25.773592,
+   "globe": 34.668755,
+   "naturalWetBulb": 23.785486
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 8,
+   "day": 10,
+   "hour": 2,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 275.4,
+   "pressure": 1029.9,
+   "tempC": 11.2,
+   "rh": 50.9,
+   "windSpeed": 9.8,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 9.595019,
+   "globe": 16.16485,
+   "naturalWetBulb": 7.488641
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 10,
+   "day": 6,
+   "hour": 21,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 49.1,
+   "pressure": 1000,
+   "tempC": 41.2,
+   "rh": 58.3,
+   "windSpeed": 2.7,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 35.918652,
+   "globe": 42.291222,
+   "naturalWetBulb": 33.343437
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 12,
+   "day": 18,
+   "hour": 10,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 525.2,
+   "pressure": 1013.6,
+   "tempC": 13.3,
+   "rh": 54.7,
+   "windSpeed": 2.7,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 14.72312,
+   "globe": 24.541468,
+   "naturalWetBulb": 12.12118
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 11,
+   "day": 23,
+   "hour": 14,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 470.4,
+   "pressure": 990.3,
+   "tempC": 37.9,
+   "rh": 69.4,
+   "windSpeed": 3.8,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 36.810791,
+   "globe": 47.465935,
+   "naturalWetBulb": 33.610863
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 9,
+   "hour": 5,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 500.3,
+   "pressure": 1013.1,
+   "tempC": 19.6,
+   "rh": 60.5,
+   "windSpeed": 4.6,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 19.630299,
+   "globe": 28.951593,
+   "naturalWetBulb": 16.971399
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 9,
+   "day": 6,
+   "hour": 18,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 10.9,
+   "pressure": 1018.8,
+   "tempC": 26.1,
+   "rh": 71.8,
+   "windSpeed": 3,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 23.287954,
+   "globe": 25.710474,
+   "naturalWetBulb": 22.194086
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 11,
+   "day": 1,
+   "hour": 21,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 779.5,
+   "pressure": 1009.8,
+   "tempC": 27.4,
+   "rh": 87.8,
+   "windSpeed": 9.1,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 27.685331,
+   "globe": 33.009544,
+   "naturalWetBulb": 26.204889
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 1,
+   "day": 11,
+   "hour": 13,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 357.5,
+   "pressure": 1012,
+   "tempC": 1.9,
+   "rh": 21,
+   "windSpeed": 10.2,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 0.197163,
+   "globe": 5.96441,
+   "naturalWetBulb": -1.693884
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 8,
+   "day": 15,
+   "hour": 17,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 63.1,
+   "pressure": 1011,
+   "tempC": 19.3,
+   "rh": 68.5,
+   "windSpeed": 7.9,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 16.815247,
+   "globe": 19.57992,
+   "naturalWetBulb": 15.670374
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 9,
+   "day": 7,
+   "hour": 1,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 654.9,
+   "pressure": 1002.3,
+   "tempC": 36.9,
+   "rh": 35,
+   "windSpeed": 7,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 31.0676,
+   "globe": 47.417137,
+   "naturalWetBulb": 25.563105
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 6,
+   "day": 9,
+   "hour": 17,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 566.4,
+   "pressure": 994.9,
+   "tempC": 33.9,
+   "rh": 35.6,
+   "windSpeed": 8.9,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 26.84354,
+   "globe": 39.040886,
+   "naturalWetBulb": 22.350519
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 8,
+   "day": 15,
+   "hour": 7,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 24.9,
+   "pressure": 993.5,
+   "tempC": 16.2,
+   "rh": 50.6,
+   "windSpeed": 9.1,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 12.183538,
+   "globe": 15.672937,
+   "naturalWetBulb": 10.612787
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 10,
+   "day": 22,
+   "hour": 9,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 50.9,
+   "pressure": 994.4,
+   "tempC": 8.2,
+   "rh": 60.8,
+   "windSpeed": 6,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 5.937407,
+   "globe": 7.999048,
+   "naturalWetBulb": 5.02514
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 10,
+   "day": 12,
+   "hour": 3,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 82.1,
+   "pressure": 1027.6,
+   "tempC": 36.6,
+   "rh": 56.4,
+   "windSpeed": 9.4,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 31.381424,
+   "globe": 37.527336,
+   "naturalWetBulb": 28.879938
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 9,
+   "day": 13,
+   "hour": 0,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 450.5,
+   "pressure": 995.9,
+   "tempC": 6,
+   "rh": 45.5,
+   "windSpeed": 6.1,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 5.59574,
+   "globe": 12.044275,
+   "naturalWetBulb": 3.69555
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 12,
+   "day": 1,
+   "hour": 21,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 182,
+   "pressure": 1002.6,
+   "tempC": 15.9,
+   "rh": 20.3,
+   "windSpeed": 3,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 10.429231,
+   "globe": 18.308802,
+   "naturalWetBulb": 7.396387
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 10,
+   "day": 3,
+   "hour": 22,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 618.9,
+   "pressure": 1016.1,
+   "tempC": 4.2,
+   "rh": 77,
+   "windSpeed": 5.3,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 5.559555,
+   "globe": 11.265528,
+   "naturalWetBulb": 4.123498
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 3,
+   "day": 8,
+   "hour": 12,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 725.6,
+   "pressure": 994,
+   "tempC": 22.2,
+   "rh": 27.4,
+   "windSpeed": 5.1,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 19.77969,
+   "globe": 35.180656,
+   "naturalWetBulb": 15.033655
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 8,
+   "day": 10,
+   "hour": 12,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 739.3,
+   "pressure": 998.2,
+   "tempC": 21.3,
+   "rh": 65.4,
+   "windSpeed": 11,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 19.582649,
+   "globe": 26.08526,
+   "naturalWetBulb": 17.479425
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 4,
+   "day": 25,
+   "hour": 1,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 595.6,
+   "pressure": 1027.4,
+   "tempC": 21.5,
+   "rh": 15.9,
+   "windSpeed": 12,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 15.66255,
+   "globe": 28.472101,
+   "naturalWetBulb": 11.168756
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 11,
+   "day": 28,
+   "hour": 22,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 412.7,
+   "pressure": 1018.4,
+   "tempC": 8.1,
+   "rh": 30.8,
+   "windSpeed": 8.4,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 5.87432,
+   "globe": 13.631311,
+   "naturalWetBulb": 3.340082
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 5,
+   "day": 21,
+   "hour": 14,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 610.3,
+   "pressure": 996.2,
+   "tempC": 34.8,
+   "rh": 16.2,
+   "windSpeed": 8,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 24.792339,
+   "globe": 42.183098,
+   "naturalWetBulb": 18.393885
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 4,
+   "day": 15,
+   "hour": 16,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 1029.1,
+   "pressure": 1004.3,
+   "tempC": 1.7,
+   "rh": 23.1,
+   "windSpeed": 9.3,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 0.857037,
+   "globe": 8.719385,
+   "naturalWetBulb": -1.509772
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 5,
+   "hour": 17,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 353,
+   "pressure": 993.7,
+   "tempC": 6.4,
+   "rh": 86.6,
+   "windSpeed": 4.8,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 7.795713,
+   "globe": 11.618464,
+   "naturalWetBulb": 6.902887
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 5,
+   "day": 18,
+   "hour": 15,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 948,
+   "pressure": 1001.4,
+   "tempC": 25.4,
+   "rh": 53.6,
+   "windSpeed": 9.2,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 23.31576,
+   "globe": 34.668694,
+   "naturalWetBulb": 19.774317
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 5,
+   "day": 11,
+   "hour": 20,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 442.4,
+   "pressure": 1007.4,
+   "tempC": 2,
+   "rh": 28.9,
+   "windSpeed": 9.9,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 1.047251,
+   "globe": 7.188226,
+   "naturalWetBulb": -0.84342
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 8,
+   "day": 14,
+   "hour": 2,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 959,
+   "pressure": 1007.3,
+   "tempC": 32.6,
+   "rh": 24.3,
+   "windSpeed": 1.5,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 32.877686,
+   "globe": 59.956871,
+   "naturalWetBulb": 25.180445
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 4,
+   "day": 16,
+   "hour": 16,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 558.7,
+   "pressure": 1002.3,
+   "tempC": 11.2,
+   "rh": 86.2,
+   "windSpeed": 0,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 22.657024,
+   "globe": 37.26815,
+   "naturalWetBulb": 20.119135
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 7,
+   "day": 17,
+   "hour": 1,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 878.3,
+   "pressure": 1000.4,
+   "tempC": 22.4,
+   "rh": 72.5,
+   "windSpeed": 10.3,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 23.874891,
+   "globe": 34.845268,
+   "naturalWetBulb": 20.951197
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 1,
+   "day": 22,
+   "hour": 1,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 194.7,
+   "pressure": 1028.3,
+   "tempC": 37.3,
+   "rh": 73.3,
+   "windSpeed": 2,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 35.451378,
+   "globe": 41.858727,
+   "naturalWetBulb": 33.356621
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 4,
+   "day": 12,
+   "hour": 13,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 429.4,
+   "pressure": 1019.3,
+   "tempC": 30.9,
+   "rh": 68.6,
+   "windSpeed": 3.6,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 29.7707,
+   "globe": 38.991753,
+   "naturalWetBulb": 26.974787
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 9,
+   "day": 2,
+   "hour": 9,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 202.1,
+   "pressure": 997.9,
+   "tempC": 2.3,
+   "rh": 74.1,
+   "windSpeed": 3.9,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 2.5782,
+   "globe": 5.321435,
+   "naturalWetBulb": 1.834161
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 8,
+   "day": 19,
+   "hour": 6,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 162.5,
+   "pressure": 1029.3,
+   "tempC": 8.9,
+   "rh": 43.9,
+   "windSpeed": 1.6,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 6.903846,
+   "globe": 11.454462,
+   "naturalWetBulb": 5.318506
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 9,
+   "day": 1,
+   "hour": 23,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 982.6,
+   "pressure": 1015.6,
+   "tempC": 33,
+   "rh": 61.6,
+   "windSpeed": 3.4,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 30.76944,
+   "globe": 41.160027,
+   "naturalWetBulb": 27.48205
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 5,
+   "day": 23,
+   "hour": 14,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 25.2,
+   "pressure": 1024.8,
+   "tempC": 35.9,
+   "rh": 90.1,
+   "windSpeed": 10.2,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 34.921185,
+   "globe": 36.319847,
+   "naturalWetBulb": 34.381737
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 1,
+   "day": 25,
+   "hour": 12,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 849.2,
+   "pressure": 1025.9,
+   "tempC": 3.6,
+   "rh": 50.5,
+   "windSpeed": 4.3,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 8.076816,
+   "globe": 19.267664,
+   "naturalWetBulb": 5.518976
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 9,
+   "day": 23,
+   "hour": 20,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 989.5,
+   "pressure": 1013.8,
+   "tempC": 43.1,
+   "rh": 20.3,
+   "windSpeed": 8.7,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 31.648312,
+   "globe": 50.745903,
+   "naturalWetBulb": 24.555902
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 12,
+   "day": 20,
+   "hour": 7,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 38.8,
+   "pressure": 997.6,
+   "tempC": 39.3,
+   "rh": 27.8,
+   "windSpeed": 7.8,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 28.361584,
+   "globe": 39.213341,
+   "naturalWetBulb": 23.69845
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 2,
+   "day": 24,
+   "hour": 14,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 550.3,
+   "pressure": 994.2,
+   "tempC": 32.3,
+   "rh": 71.5,
+   "windSpeed": 10.7,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 30.691708,
+   "globe": 38.405998,
+   "naturalWetBulb": 28.257868
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 9,
+   "day": 13,
+   "hour": 2,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 777,
+   "pressure": 1008.1,
+   "tempC": 4.7,
+   "rh": 59.1,
+   "windSpeed": 1.4,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 14.082861,
+   "globe": 28.747004,
+   "naturalWetBulb": 11.233515
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 12,
+   "day": 10,
+   "hour": 11,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 74.5,
+   "pressure": 998.7,
+   "tempC": 6.8,
+   "rh": 82,
+   "windSpeed": 3.8,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 6.104601,
+   "globe": 7.248712,
+   "naturalWetBulb": 5.678369
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 3,
+   "day": 15,
+   "hour": 9,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 699.3,
+   "pressure": 998.7,
+   "tempC": 33.1,
+   "rh": 70.1,
+   "windSpeed": 1.9,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 34.739143,
+   "globe": 49.659813,
+   "naturalWetBulb": 30.71026
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 9,
+   "day": 2,
+   "hour": 14,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 845.6,
+   "pressure": 1008.6,
+   "tempC": 15.7,
+   "rh": 69.2,
+   "windSpeed": 3.3,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 17.228525,
+   "globe": 27.360956,
+   "naturalWetBulb": 14.551905
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 5,
+   "day": 2,
+   "hour": 22,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 826.8,
+   "pressure": 1010.2,
+   "tempC": 41.4,
+   "rh": 17.7,
+   "windSpeed": 7.7,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 29.435061,
+   "globe": 47.709618,
+   "naturalWetBulb": 22.50448
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 5,
+   "day": 6,
+   "hour": 17,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 409.2,
+   "pressure": 1010.1,
+   "tempC": 31.2,
+   "rh": 86.6,
+   "windSpeed": 11.4,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 31.329561,
+   "globe": 36.680901,
+   "naturalWetBulb": 29.819117
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 1,
+   "day": 11,
+   "hour": 15,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 872.5,
+   "pressure": 996,
+   "tempC": 21.3,
+   "rh": 86,
+   "windSpeed": 0.4,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 33.198761,
+   "globe": 55.247215,
+   "naturalWetBulb": 28.599024
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 8,
+   "day": 13,
+   "hour": 19,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 931.5,
+   "pressure": 1011.8,
+   "tempC": 23.5,
+   "rh": 82.9,
+   "windSpeed": 2.3,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 26.623737,
+   "globe": 39.244743,
+   "naturalWetBulb": 23.463984
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 11,
+   "day": 10,
+   "hour": 9,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 769.3,
+   "pressure": 1024.7,
+   "tempC": 43.6,
+   "rh": 53.6,
+   "windSpeed": 3.6,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 41.292351,
+   "globe": 59.198509,
+   "naturalWetBulb": 35.846642
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 2,
+   "day": 16,
+   "hour": 12,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 1015.6,
+   "pressure": 1012.6,
+   "tempC": 9.4,
+   "rh": 66.1,
+   "windSpeed": 6.6,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 12.83434,
+   "globe": 23.892481,
+   "naturalWetBulb": 10.165491
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 9,
+   "day": 27,
+   "hour": 23,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 118.2,
+   "pressure": 996.4,
+   "tempC": 27.5,
+   "rh": 34.2,
+   "windSpeed": 11.8,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 20.271177,
+   "globe": 28.230555,
+   "naturalWetBulb": 16.96438
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 3,
+   "day": 6,
+   "hour": 16,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 172.3,
+   "pressure": 1014,
+   "tempC": 15.5,
+   "rh": 56.1,
+   "windSpeed": 5.1,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 12.974522,
+   "globe": 17.489893,
+   "naturalWetBulb": 11.323633
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 5,
+   "day": 26,
+   "hour": 21,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 849.9,
+   "pressure": 1027.2,
+   "tempC": 13.8,
+   "rh": 76.4,
+   "windSpeed": 10.2,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 14.819897,
+   "globe": 22.181971,
+   "naturalWetBulb": 12.862146
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 4,
+   "day": 13,
+   "hour": 13,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 152.4,
+   "pressure": 1004.1,
+   "tempC": 22,
+   "rh": 91.7,
+   "windSpeed": 0.8,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 23.218845,
+   "globe": 26.838037,
+   "naturalWetBulb": 22.358912
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 4,
+   "day": 14,
+   "hour": 20,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 503.2,
+   "pressure": 1012.3,
+   "tempC": 37.2,
+   "rh": 80.1,
+   "windSpeed": 6.9,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 36.663635,
+   "globe": 44.056328,
+   "naturalWetBulb": 34.474815
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 11,
+   "day": 2,
+   "hour": 12,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 237.4,
+   "pressure": 998.4,
+   "tempC": 29.2,
+   "rh": 90,
+   "windSpeed": 6.2,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 29.672487,
+   "globe": 34.952507,
+   "naturalWetBulb": 28.231409
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 2,
+   "day": 14,
+   "hour": 10,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 561.2,
+   "pressure": 1028.7,
+   "tempC": 43.2,
+   "rh": 52.2,
+   "windSpeed": 5.6,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 38.720608,
+   "globe": 51.90728,
+   "naturalWetBulb": 34.313072
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 4,
+   "day": 1,
+   "hour": 15,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 64.1,
+   "pressure": 998.4,
+   "tempC": 29.1,
+   "rh": 38.4,
+   "windSpeed": 12,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 22.007185,
+   "globe": 29.302423,
+   "naturalWetBulb": 18.909571
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 1,
+   "day": 1,
+   "hour": 15,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 553.8,
+   "pressure": 1027.7,
+   "tempC": 23.7,
+   "rh": 70.3,
+   "windSpeed": 2.9,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 24.596066,
+   "globe": 34.521385,
+   "naturalWetBulb": 21.888269
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 1,
+   "day": 14,
+   "hour": 22,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 271.4,
+   "pressure": 1010.7,
+   "tempC": 30.1,
+   "rh": 71,
+   "windSpeed": 7.7,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 28.661892,
+   "globe": 36.364403,
+   "naturalWetBulb": 26.255732
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 9,
+   "day": 17,
+   "hour": 20,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 664.4,
+   "pressure": 993.3,
+   "tempC": 27,
+   "rh": 35.7,
+   "windSpeed": 4.2,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 23.212959,
+   "globe": 37.574272,
+   "naturalWetBulb": 18.56872
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 9,
+   "day": 21,
+   "hour": 15,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 322.2,
+   "pressure": 990.9,
+   "tempC": 25.6,
+   "rh": 19.2,
+   "windSpeed": 5.9,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 17.937504,
+   "globe": 30.207483,
+   "naturalWetBulb": 13.337152
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 11,
+   "day": 9,
+   "hour": 9,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 890.5,
+   "pressure": 1001.2,
+   "tempC": 1.1,
+   "rh": 99.8,
+   "windSpeed": 11.6,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 5.012494,
+   "globe": 11.074213,
+   "naturalWetBulb": 3.839502
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 26,
+   "hour": 1,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 670.3,
+   "pressure": 1017.4,
+   "tempC": 39,
+   "rh": 75.6,
+   "windSpeed": 2.1,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 39.101883,
+   "globe": 50.816399,
+   "naturalWetBulb": 35.769432
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 9,
+   "day": 5,
+   "hour": 19,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 297,
+   "pressure": 1020.8,
+   "tempC": 11.6,
+   "rh": 95.1,
+   "windSpeed": 5.4,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 13.161283,
+   "globe": 16.51684,
+   "naturalWetBulb": 12.425592
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 4,
+   "day": 18,
+   "hour": 20,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 352.6,
+   "pressure": 1001.7,
+   "tempC": 18.8,
+   "rh": 57,
+   "windSpeed": 9.1,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 16.517311,
+   "globe": 22.695917,
+   "naturalWetBulb": 14.425898
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 4,
+   "day": 10,
+   "hour": 13,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 658.5,
+   "pressure": 1005.6,
+   "tempC": 19.8,
+   "rh": 48.4,
+   "windSpeed": 6,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 16.691988,
+   "globe": 24.703943,
+   "naturalWetBulb": 13.958857
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 6,
+   "day": 26,
+   "hour": 2,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 163.4,
+   "pressure": 1012.3,
+   "tempC": 33.2,
+   "rh": 44.1,
+   "windSpeed": 8.4,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 26.785341,
+   "globe": 34.918541,
+   "naturalWetBulb": 23.545191
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 8,
+   "day": 6,
+   "hour": 14,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 614.3,
+   "pressure": 1019.6,
+   "tempC": 21.9,
+   "rh": 69.8,
+   "windSpeed": 11.9,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 21.266676,
+   "globe": 28.794001,
+   "naturalWetBulb": 19.025537
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 9,
+   "day": 4,
+   "hour": 11,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 41.88,
+   "lon": -87.63,
+   "solar": 1021.7,
+   "pressure": 995.5,
+   "tempC": 28.6,
+   "rh": 32.4,
+   "windSpeed": 3.4,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 27.808147,
+   "globe": 49.280235,
+   "naturalWetBulb": 21.560144
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 4,
+   "day": 13,
+   "hour": 1,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 63.7,
+   "pressure": 1015.4,
+   "tempC": 24.5,
+   "rh": 94.5,
+   "windSpeed": 0.1,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 25.203964,
+   "globe": 26.890528,
+   "naturalWetBulb": 24.822657
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 3,
+   "day": 2,
+   "hour": 2,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 772.5,
+   "pressure": 995.7,
+   "tempC": 18.3,
+   "rh": 31.4,
+   "windSpeed": 4.8,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 15.165493,
+   "globe": 27.066217,
+   "naturalWetBulb": 11.317499
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 3,
+   "day": 16,
+   "hour": 5,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 964.2,
+   "pressure": 1010.2,
+   "tempC": 31.4,
+   "rh": 23,
+   "windSpeed": 0.2,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 39.828762,
+   "globe": 72.080101,
+   "naturalWetBulb": 31.818201
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 10,
+   "day": 15,
+   "hour": 11,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 332.7,
+   "pressure": 1005.3,
+   "tempC": 35.6,
+   "rh": 56.8,
+   "windSpeed": 1.1,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 33.297146,
+   "globe": 44.815819,
+   "naturalWetBulb": 29.677118
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 4,
+   "day": 14,
+   "hour": 13,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 550.8,
+   "pressure": 1020.3,
+   "tempC": 0.2,
+   "rh": 66.1,
+   "windSpeed": 5.5,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 2.207571,
+   "globe": 9.133295,
+   "naturalWetBulb": 0.515588
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 12,
+   "day": 16,
+   "hour": 2,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 77.3,
+   "pressure": 993.4,
+   "tempC": 43.4,
+   "rh": 78.8,
+   "windSpeed": 8.1,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 41.039303,
+   "globe": 44.899193,
+   "naturalWetBulb": 39.599236
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 9,
+   "day": 27,
+   "hour": 5,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 959.5,
+   "pressure": 1027,
+   "tempC": 0.1,
+   "rh": 73.1,
+   "windSpeed": 9.9,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 3.709027,
+   "globe": 11.458307,
+   "naturalWetBulb": 2.010522
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 6,
+   "day": 14,
+   "hour": 8,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 527.8,
+   "pressure": 990.2,
+   "tempC": 15.8,
+   "rh": 57.7,
+   "windSpeed": 11.7,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 14.492834,
+   "globe": 21.430384,
+   "naturalWetBulb": 12.323938
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 10,
+   "day": 4,
+   "hour": 23,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 17.4,
+   "pressure": 996.3,
+   "tempC": 40.9,
+   "rh": 35.8,
+   "windSpeed": 4.4,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 31.285917,
+   "globe": 40.70266,
+   "naturalWetBulb": 27.221979
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 6,
+   "day": 5,
+   "hour": 9,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 769.1,
+   "pressure": 1027.3,
+   "tempC": 20.5,
+   "rh": 62.5,
+   "windSpeed": 9.6,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 20.918787,
+   "globe": 31.432184,
+   "naturalWetBulb": 17.974787
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 8,
+   "day": 28,
+   "hour": 5,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 1067.3,
+   "pressure": 1004.3,
+   "tempC": 41.2,
+   "rh": 58.9,
+   "windSpeed": 1.5,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 43.470936,
+   "globe": 68.307976,
+   "naturalWetBulb": 36.699059
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 11,
+   "day": 11,
+   "hour": 14,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 1029.5,
+   "pressure": 990.6,
+   "tempC": 17.5,
+   "rh": 67.2,
+   "windSpeed": 1.2,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 18.960365,
+   "globe": 29.566492,
+   "naturalWetBulb": 16.138666
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 12,
+   "day": 23,
+   "hour": 16,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 55.9,
+   "pressure": 1019.4,
+   "tempC": 28.4,
+   "rh": 21.3,
+   "windSpeed": 5.1,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 18.912838,
+   "globe": 28.117456,
+   "naturalWetBulb": 14.927637
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 7,
+   "day": 18,
+   "hour": 23,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 516.6,
+   "pressure": 1007.8,
+   "tempC": 30.5,
+   "rh": 57.5,
+   "windSpeed": 7,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 27.828445,
+   "globe": 37.913567,
+   "naturalWetBulb": 24.565332
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 8,
+   "day": 15,
+   "hour": 3,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 20.5,
+   "pressure": 1009.1,
+   "tempC": 6,
+   "rh": 32.5,
+   "windSpeed": 11.5,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 2.114435,
+   "globe": 5.326807,
+   "naturalWetBulb": 0.641534
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 5,
+   "day": 28,
+   "hour": 21,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 250.7,
+   "pressure": 990.7,
+   "tempC": 33.1,
+   "rh": 40.3,
+   "windSpeed": 3.5,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 26.928305,
+   "globe": 37.204887,
+   "naturalWetBulb": 23.110468
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 12,
+   "day": 4,
+   "hour": 1,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 25.76,
+   "lon": -80.19,
+   "solar": 826.9,
+   "pressure": 1008.7,
+   "tempC": 42.1,
+   "rh": 59.3,
+   "windSpeed": 7.4,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 40.182648,
+   "globe": 55.746361,
+   "naturalWetBulb": 35.461967
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 3,
+   "day": 20,
+   "hour": 13,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 29.76,
+   "lon": -95.37,
+   "solar": 586.9,
+   "pressure": 1008.7,
+   "tempC": 5.4,
+   "rh": 99.5,
+   "windSpeed": 0.8,
+   "windHeight": 10,
+   "dT": 1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 10.239012,
+   "globe": 18.408197,
+   "naturalWetBulb": 8.596247
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 12,
+   "day": 15,
+   "hour": 12,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 28.29,
+   "lon": -81.41,
+   "solar": 373.3,
+   "pressure": 1010.9,
+   "tempC": 16.6,
+   "rh": 86.4,
+   "windSpeed": 7,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 16.996805,
+   "globe": 21.566736,
+   "naturalWetBulb": 15.747797
+  }
+ },
+ {
+  "input": {
+   "year": 2026,
+   "month": 10,
+   "day": 12,
+   "hour": 23,
+   "minute": 0,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 47.61,
+   "lon": -122.33,
+   "solar": 740.2,
+   "pressure": 1009.8,
+   "tempC": 21.9,
+   "rh": 65.9,
+   "windSpeed": 8.3,
+   "windHeight": 2,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 20.851582,
+   "globe": 28.842798,
+   "naturalWetBulb": 18.418604
+  }
+ },
+ {
+  "input": {
+   "year": 2028,
+   "month": 3,
+   "day": 23,
+   "hour": 14,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 15,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 63.3,
+   "pressure": 1002.3,
+   "tempC": 26.2,
+   "rh": 80.5,
+   "windSpeed": 1.3,
+   "windHeight": 10,
+   "dT": 0,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 24.848425,
+   "globe": 27.456598,
+   "naturalWetBulb": 23.910151
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 4,
+   "day": 19,
+   "hour": 9,
+   "minute": 30,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 261.6,
+   "pressure": 1020.1,
+   "tempC": 3.4,
+   "rh": 15.5,
+   "windSpeed": 11.9,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 0.296528,
+   "globe": 5.577936,
+   "naturalWetBulb": -1.655798
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 4,
+   "day": 26,
+   "hour": 6,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 30.33,
+   "lon": -81.66,
+   "solar": 458.4,
+   "pressure": 993.3,
+   "tempC": 12.9,
+   "rh": 93.3,
+   "windSpeed": 11.9,
+   "windHeight": 2,
+   "dT": 1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 14.126689,
+   "globe": 17.791162,
+   "naturalWetBulb": 13.254938
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 9,
+   "day": 21,
+   "hour": 19,
+   "minute": 45,
+   "gmt": 0,
+   "avg": 0,
+   "lat": 21.31,
+   "lon": -157.86,
+   "solar": 1070.1,
+   "pressure": 996.9,
+   "tempC": 20.1,
+   "rh": 52.7,
+   "windSpeed": 5.5,
+   "windHeight": 2,
+   "dT": -1,
+   "urban": 1
+  },
+  "expected": {
+   "wbgt": 19.028196,
+   "globe": 30.236872,
+   "naturalWetBulb": 15.672602
+  }
+ },
+ {
+  "input": {
+   "year": 2027,
+   "month": 2,
+   "day": 16,
+   "hour": 21,
+   "minute": 15,
+   "gmt": 0,
+   "avg": 60,
+   "lat": 33.45,
+   "lon": -112.07,
+   "solar": 248.6,
+   "pressure": 991.3,
+   "tempC": 20.2,
+   "rh": 37.9,
+   "windSpeed": 3.6,
+   "windHeight": 10,
+   "dT": -1,
+   "urban": 0
+  },
+  "expected": {
+   "wbgt": 16.060968,
+   "globe": 24.080866,
+   "naturalWetBulb": 13.178278
+  }
+ }
+]

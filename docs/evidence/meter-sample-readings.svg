@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 560" width="560" height="560" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Afuera's WBGT estimate vs. a WBGT meter</title>
+<desc id="d">12 readings. Dots above the diagonal are where Afuera read higher than the meter.</desc>
+<rect width="560" height="560" fill="#FFFFFF"/>
+<text x="16" y="28" font-size="17" font-weight="600" fill="#2B2F36">Afuera's estimate vs. the meter (WBGT °F)</text>
+<text x="16" y="48" font-size="12" fill="#555D68">12 readings. Dashed lines are the FHSAA level thresholds.</text>
+<line x1="64" x2="64" y1="504" y2="70" stroke="#E6F1FA"/>
+<line x1="64" x2="536" y1="504" y2="504" stroke="#E6F1FA"/>
+<text x="64" y="522" font-size="11" fill="#555D68" text-anchor="middle">68</text>
+<text x="56" y="508" font-size="11" fill="#555D68" text-anchor="end">68</text>
+<line x1="100.3076923076923" x2="100.3076923076923" y1="504" y2="70" stroke="#E6F1FA"/>
+<line x1="64" x2="536" y1="470.61538461538464" y2="470.61538461538464" stroke="#E6F1FA"/>
+<text x="100.3076923076923" y="522" font-size="11" fill="#555D68" text-anchor="middle">70</text>
+<text x="56" y="474.61538461538464" font-size="11" fill="#555D68" text-anchor="end">70</text>
+<line x1="136.6153846153846" x2="136.6153846153846" y1="504" y2="70" stroke="#E6F1FA"/>
+<line x1="64" x2="536" y1="437.2307692307692" y2="437.2307692307692" stroke="#E6F1FA"/>
+<text x="136.6153846153846" y="522" font-size="11" fill="#555D68" text-anchor="middle">72</text>
+<text x="56" y="441.2307692307692" font-size="11" fill="#555D68" text-anchor="end">72</text>
+<line x1="172.92307692307693" x2="172.92307692307693" y1="504" y2="70" stroke="#E6F1FA"/>
+<line x1="64" x2="536" y1="403.8461538461538" y2="403.8461538461538" stroke="#E6F1FA"/>
+<text x="172.92307692307693" y="522" font-size="11" fill="#555D68" text-anchor="middle">74</text>
+<text x="56" y="407.8461538461538" font-size="11" fill="#555D68" text-anchor="end">74</text>
+<line x1="209.23076923076923" x2="209.23076923076923" y1="504" y2="70" stroke="#E6F1FA"/>
+<line x1="64" x2="536" y1="370.46153846153845" y2="370.46153846153845" stroke="#E6F1FA"/>
+<text x="209.23076923076923" y="522" font-size="11" fill="#555D68" text-anchor="middle">76</text>
+<text x="56" y="374.46153846153845" font-size="11" fill="#555D68" text-anchor="end">76</text>
+<line x1="245.53846153846155" x2="245.53846153846155" y1="504" y2="70" stroke="#E6F1FA"/>
+<line x1="64" x2="536" y1="337.0769230769231" y2="337.0769230769231" stroke="#E6F1FA"/>
+<text x="245.53846153846155" y="522" font-size="11" fill="#555D68" text-anchor="middle">78</text>
+<text x="56" y="341.0769230769231" font-size="11" fill="#555D68" text-anchor="end">78</text>
+<line x1="281.84615384615387" x2="281.84615384615387" y1="504" y2="70" stroke="#E6F1FA"/>
+<line x1="64" x2="536" y1="303.6923076923077" y2="303.6923076923077" stroke="#E6F1FA"/>
+<text x="281.84615384615387" y="522" font-size="11" fill="#555D68" text-anchor="middle">80</text>
+<text x="56" y="307.6923076923077" font-size="11" fill="#555D68" text-anchor="end">80</text>
+<line x1="318.15384615384613" x2="318.15384615384613" y1="504" y2="70" stroke="#E6F1FA"/>
+<line x1="64" x2="536" y1="270.3076923076923" y2="270.3076923076923" stroke="#E6F1FA"/>
+<text x="318.15384615384613" y="522" font-size="11" fill="#555D68" text-anchor="middle">82</text>
+<text x="56" y="274.3076923076923" font-size="11" fill="#555D68" text-anchor="end">82</text>
+<line x1="354.46153846153845" x2="354.46153846153845" y1="504" y2="70" stroke="#E6F1FA"/>
+<line x1="64" x2="536" y1="236.9230769230769" y2="236.9230769230769" stroke="#E6F1FA"/>
+<text x="354.46153846153845" y="522" font-size="11" fill="#555D68" text-anchor="middle">84</text>
+<text x="56" y="240.9230769230769" font-size="11" fill="#555D68" text-anchor="end">84</text>
+<line x1="390.7692307692308" x2="390.7692307692308" y1="504" y2="70" stroke="#E6F1FA"/>
+<line x1="64" x2="536" y1="203.53846153846155" y2="203.53846153846155" stroke="#E6F1FA"/>
+<text x="390.7692307692308" y="522" font-size="11" fill="#555D68" text-anchor="middle">86</text>
+<text x="56" y="207.53846153846155" font-size="11" fill="#555D68" text-anchor="end">86</text>
+<line x1="427.0769230769231" x2="427.0769230769231" y1="504" y2="70" stroke="#E6F1FA"/>
+<line x1="64" x2="536" y1="170.15384615384613" y2="170.15384615384613" stroke="#E6F1FA"/>
+<text x="427.0769230769231" y="522" font-size="11" fill="#555D68" text-anchor="middle">88</text>
+<text x="56" y="174.15384615384613" font-size="11" fill="#555D68" text-anchor="end">88</text>
+<line x1="463.38461538461536" x2="463.38461538461536" y1="504" y2="70" stroke="#E6F1FA"/>
+<line x1="64" x2="536" y1="136.76923076923077" y2="136.76923076923077" stroke="#E6F1FA"/>
+<text x="463.38461538461536" y="522" font-size="11" fill="#555D68" text-anchor="middle">90</text>
+<text x="56" y="140.76923076923077" font-size="11" fill="#555D68" text-anchor="end">90</text>
+<line x1="499.69230769230774" x2="499.69230769230774" y1="504" y2="70" stroke="#E6F1FA"/>
+<line x1="64" x2="536" y1="103.38461538461536" y2="103.38461538461536" stroke="#E6F1FA"/>
+<text x="499.69230769230774" y="522" font-size="11" fill="#555D68" text-anchor="middle">92</text>
+<text x="56" y="107.38461538461536" font-size="11" fill="#555D68" text-anchor="end">92</text>
+<line x1="536" x2="536" y1="504" y2="70" stroke="#E6F1FA"/>
+<line x1="64" x2="536" y1="70" y2="70" stroke="#E6F1FA"/>
+<text x="536" y="522" font-size="11" fill="#555D68" text-anchor="middle">94</text>
+<text x="56" y="74" font-size="11" fill="#555D68" text-anchor="end">94</text>
+<line x1="318.15384615384613" x2="318.15384615384613" y1="504" y2="70" stroke="#C9DDEE" stroke-dasharray="4 4"/>
+<line x1="64" x2="536" y1="270.3076923076923" y2="270.3076923076923" stroke="#C9DDEE" stroke-dasharray="4 4"/>
+<line x1="408.9230769230769" x2="408.9230769230769" y1="504" y2="70" stroke="#C9DDEE" stroke-dasharray="4 4"/>
+<line x1="64" x2="536" y1="186.84615384615387" y2="186.84615384615387" stroke="#C9DDEE" stroke-dasharray="4 4"/>
+<line x1="463.38461538461536" x2="463.38461538461536" y1="504" y2="70" stroke="#C9DDEE" stroke-dasharray="4 4"/>
+<line x1="64" x2="536" y1="136.76923076923077" y2="136.76923076923077" stroke="#C9DDEE" stroke-dasharray="4 4"/>
+<line x1="499.69230769230774" x2="499.69230769230774" y1="504" y2="70" stroke="#C9DDEE" stroke-dasharray="4 4"/>
+<line x1="64" x2="536" y1="103.38461538461536" y2="103.38461538461536" stroke="#C9DDEE" stroke-dasharray="4 4"/>
+<line x1="64" y1="504" x2="536" y2="70" stroke="#555D68" stroke-width="1.5"/>
+<text x="471.3599999999999" y="118.0800000000001" font-size="11" fill="#555D68" text-anchor="end">same reading</text>
+<text x="72" y="86" font-size="11" fill="#555D68">Afuera higher ↑</text>
+<text x="528" y="496" font-size="11" fill="#555D68" text-anchor="end">Afuera lower ↓</text>
+<text x="300" y="546" font-size="12" fill="#2B2F36" text-anchor="middle">Meter WBGT (°F)</text>
+<text transform="translate(18 287) rotate(-90)" font-size="12" fill="#2B2F36" text-anchor="middle">Afuera WBGT (°F)</text>
+<g><title>Sat, Oct 17, 10:00 AM (practice field, full sun): meter 76.8 °F Lower, Afuera 81.0 °F Lower, gap +4.2 °F</title><circle cx="223.7538461538461" cy="287" r="10" fill="#FFFFFF" fill-opacity="0"/><circle cx="223.7538461538461" cy="287" r="5" fill="#2B2F36" stroke="#FFFFFF" stroke-width="2"/></g>
+<g><title>Sat, Oct 17, 11:00 AM (practice field, full sun): meter 79.1 °F Lower, Afuera 77.7 °F Lower, gap −1.4 °F</title><circle cx="265.5076923076922" cy="342.08461538461535" r="10" fill="#FFFFFF" fill-opacity="0"/><circle cx="265.5076923076922" cy="342.08461538461535" r="5" fill="#2B2F36" stroke="#FFFFFF" stroke-width="2"/></g>
+<g><title>Sat, Oct 17, 12:00 PM (practice field, full sun): meter 81.0 °F Lower, Afuera 74.8 °F Lower, gap −6.2 °F</title><circle cx="300" cy="390.49230769230775" r="10" fill="#FFFFFF" fill-opacity="0"/><circle cx="300" cy="390.49230769230775" r="5" fill="#2B2F36" stroke="#FFFFFF" stroke-width="2"/></g>
+<g><title>Sat, Oct 17, 1:00 PM (practice field, full sun): meter 82.4 °F Elevated, Afuera 77.2 °F Lower, gap −5.2 °F</title><circle cx="325.4153846153847" cy="350.4307692307692" r="10" fill="#FFFFFF" fill-opacity="0"/><circle cx="325.4153846153847" cy="350.4307692307692" r="5" fill="#2B2F36" stroke="#FFFFFF" stroke-width="2"/></g>
+<g><title>Sat, Oct 17, 2:00 PM (practice field, full sun): meter 83.0 °F Elevated, Afuera 77.5 °F Lower, gap −5.5 °F</title><circle cx="336.30769230769226" cy="345.4230769230769" r="10" fill="#FFFFFF" fill-opacity="0"/><circle cx="336.30769230769226" cy="345.4230769230769" r="5" fill="#2B2F36" stroke="#FFFFFF" stroke-width="2"/></g>
+<g><title>Sat, Oct 17, 3:00 PM (practice field, full sun): meter 82.2 °F Elevated, Afuera 77.4 °F Lower, gap −4.8 °F</title><circle cx="321.7846153846154" cy="347.0923076923076" r="10" fill="#FFFFFF" fill-opacity="0"/><circle cx="321.7846153846154" cy="347.0923076923076" r="5" fill="#2B2F36" stroke="#FFFFFF" stroke-width="2"/></g>
+<g><title>Sat, Oct 17, 4:00 PM (practice field, light wind): meter 80.5 °F Lower, Afuera 73.9 °F Lower, gap −6.6 °F</title><circle cx="290.9230769230769" cy="405.5153846153845" r="10" fill="#FFFFFF" fill-opacity="0"/><circle cx="290.9230769230769" cy="405.5153846153845" r="5" fill="#2B2F36" stroke="#FFFFFF" stroke-width="2"/></g>
+<g><title>Sat, Oct 17, 5:00 PM (practice field, sun low): meter 78.3 °F Lower, Afuera 69.4 °F Lower, gap −8.9 °F</title><circle cx="250.98461538461532" cy="480.63076923076915" r="10" fill="#FFFFFF" fill-opacity="0"/><circle cx="250.98461538461532" cy="480.63076923076915" r="5" fill="#2B2F36" stroke="#FFFFFF" stroke-width="2"/></g>
+<g><title>Sun, Oct 18, 10:30 AM (turf field, full sun): meter 77.5 °F Lower, Afuera 70.4 °F Lower, gap −7.1 °F</title><circle cx="236.46153846153845" cy="463.93846153846147" r="10" fill="#FFFFFF" fill-opacity="0"/><circle cx="236.46153846153845" cy="463.93846153846147" r="5" fill="#2B2F36" stroke="#FFFFFF" stroke-width="2"/></g>
+<g><title>Sun, Oct 18, 12:30 PM (turf field, full sun): meter 82.9 °F Elevated, Afuera 73.4 °F Lower, gap −9.5 °F</title><circle cx="334.4923076923078" cy="413.8615384615384" r="10" fill="#FFFFFF" fill-opacity="0"/><circle cx="334.4923076923078" cy="413.8615384615384" r="5" fill="#2B2F36" stroke="#FFFFFF" stroke-width="2"/></g>
+<g><title>Sun, Oct 18, 2:30 PM (turf field, still air): meter 84.1 °F Elevated, Afuera 75.4 °F Lower, gap −8.7 °F</title><circle cx="356.27692307692297" cy="380.47692307692296" r="10" fill="#FFFFFF" fill-opacity="0"/><circle cx="356.27692307692297" cy="380.47692307692296" r="5" fill="#2B2F36" stroke="#FFFFFF" stroke-width="2"/></g>
+<g><title>Sun, Oct 18, 4:30 PM (turf field, clouds): meter 80.0 °F Lower, Afuera 72.0 °F Lower, gap −8.0 °F</title><circle cx="281.84615384615387" cy="437.2307692307692" r="10" fill="#FFFFFF" fill-opacity="0"/><circle cx="281.84615384615387" cy="437.2307692307692" r="5" fill="#2B2F36" stroke="#FFFFFF" stroke-width="2"/></g>
+</svg>

@@ -1,0 +1,51 @@
+# Check-ins every activity gets. Each activity file adds its own on top.
+#
+# everyMinutes: how often at each heat level. A level that's left out means the
+#   check-in isn't used at that level. 0 means once, at the start.
+# required: the AI can never remove a required check-in or space it out.
+#
+# Break spacing follows FHSAA Policy 41.8.3 (2025-26 Handbook, p. 107):
+#   82.1–87.0 °F: 3 breaks/hour → every 20 min
+#   87.1–90.0 °F: 4 breaks/hour → every 15 min
+#   90.1–92.0 °F: 5 breaks/hour → every 12 min
+# FHSAA sets no break rule below 82 °F. Kids get one every 30 minutes anyway.
+checkins:
+  - id: water-break
+    required: true
+    everyMinutes: { lower: 30, elevated: 20, high: 15, extreme: 12 }
+    title:
+      en: Water and shade break (4 min)
+      es: Descanso con agua y sombra (4 min)
+    detail:
+      en: Everyone stops, drinks water, and rests in the shade.
+      es: Todos paran, toman agua y descansan en la sombra.
+
+  - id: heat-reading
+    required: true
+    everyMinutes: { elevated: 30, high: 30, extreme: 30 }
+    title:
+      en: Check the heat again
+      es: Revisa el calor otra vez
+    detail:
+      en: Read the WBGT meter or refresh the app. If the level went up, follow the new level.
+      es: Lee el medidor WBGT o actualiza la app. Si el nivel subió, sigue el nuevo nivel.
+
+  - id: cooling-zone
+    required: true
+    everyMinutes: { elevated: 0, high: 0, extreme: 0 }
+    title:
+      en: Cooling zone ready
+      es: Zona de enfriamiento lista
+    detail:
+      en: A tub of ice water (or a tarp and ice) is set up, and an adult trained to use it is here.
+      es: Hay una tina con agua y hielo (o una lona con hielo) lista, y un adulto entrenado para usarla está presente.
+
+  - id: symptom-check
+    required: false
+    everyMinutes: { lower: 60, elevated: 30, high: 20, extreme: 15 }
+    title:
+      en: Look for signs of heat illness
+      es: Busca señales de enfermedad por calor
+    detail:
+      en: "Watch for dizziness, headache, cramps, confusion, throwing up, or very red or pale skin. Anyone with these stops and cools down now."
+      es: "Fíjate si hay mareo, dolor de cabeza, calambres, confusión, vómito, o piel muy roja o pálida. Quien tenga esto para y se enfría ya."

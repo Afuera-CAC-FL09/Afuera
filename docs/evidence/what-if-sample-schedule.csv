@@ -1,0 +1,19 @@
+date,start,durationMin,place,activity,peakLevel,peakWbgtF,minutesLower,minutesElevated,minutesHigh,minutesExtreme,minutesNoOutdoorBand,minutesUnknown,afueraStart,afueraEnd,afueraLevel,afueraPeakWbgtF,afueraMinutesHighOrExtreme,couldMove,minutesAvoided
+2026-07-13,08:00,240,Kissimmee HS field,band camp,high,87.6,120,60,60,0,0,0,06:00,10:00,lower,78.8,0,yes,60
+2026-07-14,13:00,180,Kissimmee HS field,band camp,extreme,95.3,0,0,60,120,60,0,06:00,09:00,lower,70.2,0,yes,180
+2026-07-15,14:00,120,Kissimmee HS field,band,extreme,90.1,0,0,60,60,0,0,06:00,08:00,lower,70.6,0,yes,120
+2026-07-16,16:00,120,Kissimmee HS field,band,elevated,86.7,0,120,0,0,0,0,06:00,08:00,lower,72.9,0,no,0
+2026-07-20,09:00,180,St. Cloud rec park,soccer camp,elevated,85.7,0,180,0,0,0,0,06:00,09:00,lower,80.7,0,no,0
+2026-07-21,13:30,90,St. Cloud rec park,soccer camp,high,88.9,0,0,90,0,0,0,06:00,07:30,lower,74.7,0,yes,90
+2026-07-28,15:30,120,Poinciana park,football,high,88.5,0,90,30,0,0,0,06:00,08:00,lower,75,0,yes,30
+2026-07-30,15:30,120,Poinciana park,football,lower,81.8,120,0,0,0,0,0,06:00,08:00,lower,79.1,0,no,0
+2026-08-04,16:00,150,Kissimmee HS field,band,elevated,86.9,0,150,0,0,0,0,06:00,08:30,lower,80.7,0,no,0
+2026-08-06,16:00,150,Kissimmee HS field,band,elevated,83.6,90,60,0,0,0,0,06:00,08:30,lower,75.5,0,no,0
+2026-08-11,15:30,120,Poinciana park,football,extreme,97.3,0,0,60,60,60,0,06:00,08:00,lower,76.4,0,yes,120
+2026-08-13,15:30,120,Poinciana park,football,extreme,91.2,0,30,30,60,0,0,06:00,08:00,lower,73.9,0,yes,90
+2026-08-18,16:00,120,Kissimmee HS field,band,high,89.9,0,0,120,0,0,0,06:00,08:00,lower,75.8,0,yes,120
+2026-08-25,17:30,90,St. Cloud rec park,soccer,elevated,85.3,0,90,0,0,0,0,06:00,07:30,lower,72.5,0,no,0
+2026-09-01,16:00,120,Kissimmee HS field,band,high,87.2,0,60,60,0,0,0,06:00,08:00,lower,76,0,yes,60
+2026-09-08,15:30,120,Poinciana park,football,high,89,0,30,90,0,0,0,06:00,08:00,lower,75.2,0,yes,90
+2026-09-15,10:00,120,St. Cloud rec park,soccer,extreme,90.5,0,0,60,60,0,0,06:00,08:00,lower,75.9,0,yes,120
+2026-09-22,16:00,120,Kissimmee HS field,band,high,88,0,60,60,0,0,0,06:00,08:00,lower,70.6,0,yes,60
